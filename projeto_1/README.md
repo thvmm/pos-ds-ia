@@ -36,15 +36,21 @@ Leia atentamente as instruções abaixo:
 
 1. A entrega e correção será feita via GitHub. Assim sendo, ao término da atividade faça o `git commit` e o `git push` das suas análises já executadas no notebook.
 
+1. Existem dois tipos de bloco no notebook para respostas. Algumas devem ser respondidas com código outras apenas com um texto explicativo.
+
+1. Abuse de gráficos, eles facilitam o entendimento das análises e ajudam na observação de eventos e massas de dados grandes.
+
 ## Critérios de avaliação
 
-Uma boa análise de dados é composta por diversos critérios e para avaliar seu projeto iremos adotar os seguintes critérios, todos eles com peso igual:
+Uma das principais caracteristicas de uma boa análise de dados é o quanto ela consegue comunicar e suportar conclusões. Nosso principal critério de avaliação será portanto a **clareza** e **corretude** das análises.
 
-1. A base atende as requisitos mínimos
-1. Houve um entedimento das features
-1. Limpeza de dados
-1. Solidez das análises
-1. Conclusões são respaldadas pelas análises
+Cada um dos exercícios possui seu peso associado.
+
+## Links utéis
+
+- [Jupyter](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
+- [Python 3.7](https://docs.python.org/3.7/library/index.html)
+- [Visualização](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 
 ## Entregas fora do prazo
 
