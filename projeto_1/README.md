@@ -10,13 +10,13 @@ Nessa atividade o profissional busca remover dados incosistentes da base, com va
 
 ## Objetivo
 
-O objetivo desse projeto é realizar uma análise exploratória de dados sobre uma base de interesse, que esteja de acordo com os critérios definidos. Recomendamos a escolha de uma base do [Kaggle](www.kaggle.com) em um tema de interesse ou que você tenha conhecimento sobre, isso facilita muito o processo de investigação.
+O objetivo desse projeto é realizar uma análise exploratória de dados sobre uma base de interesse, que esteja de acordo com os critérios definidos. Recomendamos a escolha de uma base do [Kaggle](https://www.kaggle.com/) em um tema de interesse ou que você tenha conhecimento sobre, isso facilita muito o processo de investigação.
 
 ## Instruções
 
 Leia atentamente as instruções abaixo:
 
-1. Escolha de uma base do [Kaggle](www.kaggle.com) em um tema de interesse ou que você tenha conhecimento sobre, isso facilita muito o processo de investigação.
+1. Escolha de uma base do [Kaggle](https://www.kaggle.com/) em um tema de interesse ou que você tenha conhecimento sobre, isso facilita muito o processo de investigação.
 
    1. A base escolhida deve conter no minimo as seguintes caractéristicas:
 
@@ -51,6 +51,7 @@ Cada um dos exercícios possui seu peso associado.
 - [Jupyter](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
 - [Python 3.7](https://docs.python.org/3.7/library/index.html)
 - [Visualização](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+- [Kaggle](https://www.kaggle.com/)
 
 ## Entregas fora do prazo
 
