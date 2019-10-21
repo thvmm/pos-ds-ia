@@ -6,7 +6,7 @@
 
 As bases de dados em seu estado puro usualmente não estão prontas para serem trabalhadas. Isso torna a tarefa de explorar dados algo recorrente no dia a dia de um cientista de dados.
 
-Nessa atividade o profissional busca remover dados incosistentes da base, com valores fora do domínio ou do interesse. Por exemplo removendo registros com valores não preenchidos, ou segmentando a base por um determinado critério. Também se busca entender como esse dado está organizado e como as diversas variáveis existes se relacionam.
+Nessa atividade o profissional busca remover dados inconsistentes da base, com valores fora do domínio ou do interesse. Por exemplo removendo registros com valores não preenchidos, ou segmentando a base por um determinado critério. Também se busca entender como esse dado está organizado e como as diversas variáveis existes se relacionam.
 
 ## Objetivo
 
@@ -18,21 +18,21 @@ Leia atentamente as instruções abaixo:
 
 1. Escolha de uma base do [Kaggle](https://www.kaggle.com/) em um tema de interesse ou que você tenha conhecimento sobre, isso facilita muito o processo de investigação.
 
-   1. A base escolhida deve conter no minimo as seguintes caractéristicas:
+   1. A base escolhida deve conter no mínimo as seguintes características:
 
    - Mais de 10 mil registros
-   - Entre 10 e 20 features
-   - Ao menos os seguintes tipos de dados; texto, data, numérico, categorico
+   - Tenha em mente que menos de 10 features podem limitar suas análises
+   - Tenha ao menos uma variável contínua e uma discreta. Se possível tenha diferentes domínios a disposição: strings, números e datas por ex.
 
-1. Muito mais que definir os critérios mínimos desse desafio, essas caractéristicas vão tornar possível que uma análise realista seja feita. Bases muito mais simples que isso irão tornar sua análise pobre e distante do que é o dia a dia de um profissional da área.
+1. Muito mais que definir os critérios mínimos desse desafio, essas características vão tornar possível que uma análise realista seja feita. Bases muito mais simples que isso irão tornar sua análise pobre e distante do que é o dia a dia de um profissional da área.
 
 1. Crie o projeto em seu GitHub. Dê o nome de `aed_projeto_1`
 
-1. Pegue o template de notebook nesse repositório e utilize-o como base para seu projeto. Importante, siga as instruções do notebook e a estrutura do mesmo.
+1. Pegue o template de notebook nesse repositório e utilize-o como base para seu projeto. Importante, siga as instruções do notebook e a estrutura dele.
 
 1. Não modifique a estrutura do notebook. Se algo estiver te atrapalhando ou dificultando, converse com um dos professores ou seus colegas no Slack.
 
-1. Use o Slack da turma para conversar sobre o curso. Não iremos responder dúvidas via email.
+1. Use o Slack da turma para conversar sobre o curso. Não iremos responder dúvidas via e-mail.
 
 1. A entrega e correção será feita via GitHub. Assim sendo, ao término da atividade faça o `git commit` e o `git push` das suas análises já executadas no notebook.
 
@@ -42,7 +42,7 @@ Leia atentamente as instruções abaixo:
 
 ## Critérios de avaliação
 
-Uma das principais caracteristicas de uma boa análise de dados é o quanto ela consegue comunicar e suportar conclusões. Nosso principal critério de avaliação será portanto a **clareza** e **corretude** das análises.
+Uma das principais características de uma boa análise de dados é o quanto ela consegue comunicar e suportar conclusões. Nosso principal critério de avaliação será, portanto, a **clareza** e **corretude** das análises.
 
 Cada um dos exercícios possui seu peso associado.
 
