@@ -11,12 +11,13 @@ https://drive.google.com/drive/folders/1hBK50X5JGWaHIiIXG6-8CJUJ4_-UgRbx
 
 - 22/10 – Boas vindas e Projeto #1
 - 24/10 à 05/11 – Ferramentas básicas para DS/AI
-- 07/11 – Estatística aplicada
-- 12/11 à 19/11 – Introdução a Aprendizado de Máquina
+- 07/11 à 14/11 – Introdução a Aprendizado de Máquina
+- 19/11 – Estatística Aplicada
 - 21/11 à 17/12 – Aprendizado Supervisionado
 - 04/02 à 11/02 – Aprendizado Supervisionado
 - 13/02 à 03/03 – Validação de modelos
 - 05/03 à 12/03 – Problemas e soluções comuns
+
 
 ## Marcos importantes
 
