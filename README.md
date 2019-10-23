@@ -4,6 +4,9 @@ Bem vindo ao curso de Pós Graduação em Ciência de Dados e Inteligência Arti
 
 Nesse repositório você encontrará informações gerais do curso, os projetos e aulas práticas.
 
+## Aulas
+https://drive.google.com/drive/folders/1hBK50X5JGWaHIiIXG6-8CJUJ4_-UgRbx
+
 ## Calendário 2019/2 e 2020/1
 
 - 22/10 – Boas vindas e Projeto #1
