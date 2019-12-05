@@ -1,0 +1,1310 @@
+id_passageiro;sobreviveu;tipo_classe;nome;sexo;idade;n_irmaos_abordo;n_pais_filhos_abordo;ticket;preco;cabine;local_embarque
+1;não;3;Braund, Mr. Owen Harris;homem;22;1;0;A/5 21171;7.25;;S
+2;sim;1;Cumings, Mrs. John Bradley (Florence Briggs Thayer);mulher;38;1;0;PC 17599;71.2833;C85;C
+3;sim;3;Heikkinen, Miss. Laina;mulher;26;0;0;STON/O2. 3101282;7.925;;S
+4;sim;1;Futrelle, Mrs. Jacques Heath (Lily May Peel);mulher;35;1;0;113803;53.1;C123;S
+5;não;3;Allen, Mr. William Henry;homem;35;0;0;373450;8.05;;S
+6;não;3;Moran, Mr. James;homem;;0;0;330877;8.4583;;Q
+7;não;1;McCarthy, Mr. Timothy J;homem;54;0;0;17463;51.8625;E46;S
+8;não;3;Palsson, Master. Gosta Leonard;homem;2;3;1;349909;21.075;;S
+9;sim;3;Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg);mulher;27;0;2;347742;11.1333;;S
+10;sim;2;Nasser, Mrs. Nicholas (Adele Achem);mulher;14;1;0;237736;30.0708;;C
+11;sim;3;Sandstrom, Miss. Marguerite Rut;mulher;4;1;1;PP 9549;16.7;G6;S
+12;sim;1;Bonnell, Miss. Elizabeth;mulher;58;0;0;113783;26.55;C103;S
+13;não;3;Saundercock, Mr. William Henry;homem;20;0;0;A/5. 2151;8.05;;S
+14;não;3;Andersson, Mr. Anders Johan;homem;39;1;5;347082;31.275;;S
+15;não;3;Vestrom, Miss. Hulda Amanda Adolfina;mulher;14;0;0;350406;7.8542;;S
+16;sim;2;Hewlett, Mrs. (Mary D Kingcome) ;mulher;55;0;0;248706;16;;S
+17;não;3;Rice, Master. Eugene;homem;2;4;1;382652;29.125;;Q
+18;sim;2;Williams, Mr. Charles Eugene;homem;;0;0;244373;13;;S
+19;não;3;Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele);mulher;31;1;0;345763;18;;S
+20;sim;3;Masselmani, Mrs. Fatima;mulher;;0;0;2649;7.225;;C
+21;não;2;Fynney, Mr. Joseph J;homem;35;0;0;239865;26;;S
+22;sim;2;Beesley, Mr. Lawrence;homem;34;0;0;248698;13;D56;S
+23;sim;3;"McGowan, Miss. Anna ""Annie""";mulher;15;0;0;330923;8.0292;;Q
+24;sim;1;Sloper, Mr. William Thompson;homem;28;0;0;113788;35.5;A6;S
+25;não;3;Palsson, Miss. Torborg Danira;mulher;8;3;1;349909;21.075;;S
+26;sim;3;Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson);mulher;38;1;5;347077;31.3875;;S
+27;não;3;Emir, Mr. Farred Chehab;homem;;0;0;2631;7.225;;C
+28;não;1;Fortune, Mr. Charles Alexander;homem;19;3;2;19950;263;C23 C25 C27;S
+29;sim;3;"O'Dwyer, Miss. Ellen ""Nellie""";mulher;;0;0;330959;7.8792;;Q
+30;não;3;Todoroff, Mr. Lalio;homem;;0;0;349216;7.8958;;S
+31;não;1;Uruchurtu, Don. Manuel E;homem;40;0;0;PC 17601;27.7208;;C
+32;sim;1;Spencer, Mrs. William Augustus (Marie Eugenie);mulher;;1;0;PC 17569;146.5208;B78;C
+33;sim;3;Glynn, Miss. Mary Agatha;mulher;;0;0;335677;7.75;;Q
+34;não;2;Wheadon, Mr. Edward H;homem;66;0;0;C.A. 24579;10.5;;S
+35;não;1;Meyer, Mr. Edgar Joseph;homem;28;1;0;PC 17604;82.1708;;C
+36;não;1;Holverson, Mr. Alexander Oskar;homem;42;1;0;113789;52;;S
+37;sim;3;Mamee, Mr. Hanna;homem;;0;0;2677;7.2292;;C
+38;não;3;Cann, Mr. Ernest Charles;homem;21;0;0;A./5. 2152;8.05;;S
+39;não;3;Vander Planke, Miss. Augusta Maria;mulher;18;2;0;345764;18;;S
+40;sim;3;Nicola-Yarred, Miss. Jamila;mulher;14;1;0;2651;11.2417;;C
+41;não;3;Ahlin, Mrs. Johan (Johanna Persdotter Larsson);mulher;40;1;0;7546;9.475;;S
+42;não;2;Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott);mulher;27;1;0;11668;21;;S
+43;não;3;Kraeff, Mr. Theodor;homem;;0;0;349253;7.8958;;C
+44;sim;2;Laroche, Miss. Simonne Marie Anne Andree;mulher;3;1;2;SC/Paris 2123;41.5792;;C
+45;sim;3;Devaney, Miss. Margaret Delia;mulher;19;0;0;330958;7.8792;;Q
+46;não;3;Rogers, Mr. William John;homem;;0;0;S.C./A.4. 23567;8.05;;S
+47;não;3;Lennon, Mr. Denis;homem;;1;0;370371;15.5;;Q
+48;sim;3;O'Driscoll, Miss. Bridget;mulher;;0;0;14311;7.75;;Q
+49;não;3;Samaan, Mr. Youssef;homem;;2;0;2662;21.6792;;C
+50;não;3;Arnold-Franchi, Mrs. Josef (Josefine Franchi);mulher;18;1;0;349237;17.8;;S
+51;não;3;Panula, Master. Juha Niilo;homem;7;4;1;3101295;39.6875;;S
+52;não;3;Nosworthy, Mr. Richard Cater;homem;21;0;0;A/4. 39886;7.8;;S
+53;sim;1;Harper, Mrs. Henry Sleeper (Myna Haxtun);mulher;49;1;0;PC 17572;76.7292;D33;C
+54;sim;2;Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson);mulher;29;1;0;2926;26;;S
+55;não;1;Ostby, Mr. Engelhart Cornelius;homem;65;0;1;113509;61.9792;B30;C
+56;sim;1;Woolner, Mr. Hugh;homem;;0;0;19947;35.5;C52;S
+57;sim;2;Rugg, Miss. Emily;mulher;21;0;0;C.A. 31026;10.5;;S
+58;não;3;Novel, Mr. Mansouer;homem;28.5;0;0;2697;7.2292;;C
+59;sim;2;West, Miss. Constance Mirium;mulher;5;1;2;C.A. 34651;27.75;;S
+60;não;3;Goodwin, Master. William Frederick;homem;11;5;2;CA 2144;46.9;;S
+61;não;3;Sirayanian, Mr. Orsen;homem;22;0;0;2669;7.2292;;C
+62;sim;1;Icard, Miss. Amelie;mulher;38;0;0;113572;80;B28;
+63;não;1;Harris, Mr. Henry Birkhardt;homem;45;1;0;36973;83.475;C83;S
+64;não;3;Skoog, Master. Harald;homem;4;3;2;347088;27.9;;S
+65;não;1;Stewart, Mr. Albert A;homem;;0;0;PC 17605;27.7208;;C
+66;sim;3;Moubarek, Master. Gerios;homem;;1;1;2661;15.2458;;C
+67;sim;2;Nye, Mrs. (Elizabeth Ramell);mulher;29;0;0;C.A. 29395;10.5;F33;S
+68;não;3;Crease, Mr. Ernest James;homem;19;0;0;S.P. 3464;8.1583;;S
+69;sim;3;Andersson, Miss. Erna Alexandra;mulher;17;4;2;3101281;7.925;;S
+70;não;3;Kink, Mr. Vincenz;homem;26;2;0;315151;8.6625;;S
+71;não;2;Jenkin, Mr. Stephen Curnow;homem;32;0;0;C.A. 33111;10.5;;S
+72;não;3;Goodwin, Miss. Lillian Amy;mulher;16;5;2;CA 2144;46.9;;S
+73;não;2;Hood, Mr. Ambrose Jr;homem;21;0;0;S.O.C. 14879;73.5;;S
+74;não;3;Chronopoulos, Mr. Apostolos;homem;26;1;0;2680;14.4542;;C
+75;sim;3;Bing, Mr. Lee;homem;32;0;0;1601;56.4958;;S
+76;não;3;Moen, Mr. Sigurd Hansen;homem;25;0;0;348123;7.65;F G73;S
+77;não;3;Staneff, Mr. Ivan;homem;;0;0;349208;7.8958;;S
+78;não;3;Moutal, Mr. Rahamin Haim;homem;;0;0;374746;8.05;;S
+79;sim;2;Caldwell, Master. Alden Gates;homem;0.83;0;2;248738;29;;S
+80;sim;3;Dowdell, Miss. Elizabeth;mulher;30;0;0;364516;12.475;;S
+81;não;3;Waelens, Mr. Achille;homem;22;0;0;345767;9;;S
+82;sim;3;Sheerlinck, Mr. Jan Baptist;homem;29;0;0;345779;9.5;;S
+83;sim;3;McDermott, Miss. Brigdet Delia;mulher;;0;0;330932;7.7875;;Q
+84;não;1;Carrau, Mr. Francisco M;homem;28;0;0;113059;47.1;;S
+85;sim;2;Ilett, Miss. Bertha;mulher;17;0;0;SO/C 14885;10.5;;S
+86;sim;3;Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson);mulher;33;3;0;3101278;15.85;;S
+87;não;3;Ford, Mr. William Neal;homem;16;1;3;W./C. 6608;34.375;;S
+88;não;3;Slocovski, Mr. Selman Francis;homem;;0;0;SOTON/OQ 392086;8.05;;S
+89;sim;1;Fortune, Miss. Mabel Helen;mulher;23;3;2;19950;263;C23 C25 C27;S
+90;não;3;Celotti, Mr. Francesco;homem;24;0;0;343275;8.05;;S
+91;não;3;Christmann, Mr. Emil;homem;29;0;0;343276;8.05;;S
+92;não;3;Andreasson, Mr. Paul Edvin;homem;20;0;0;347466;7.8542;;S
+93;não;1;Chaffee, Mr. Herbert Fuller;homem;46;1;0;W.E.P. 5734;61.175;E31;S
+94;não;3;Dean, Mr. Bertram Frank;homem;26;1;2;C.A. 2315;20.575;;S
+95;não;3;Coxon, Mr. Daniel;homem;59;0;0;364500;7.25;;S
+96;não;3;Shorney, Mr. Charles Joseph;homem;;0;0;374910;8.05;;S
+97;não;1;Goldschmidt, Mr. George B;homem;71;0;0;PC 17754;34.6542;A5;C
+98;sim;1;Greenfield, Mr. William Bertram;homem;23;0;1;PC 17759;63.3583;D10 D12;C
+99;sim;2;Doling, Mrs. John T (Ada Julia Bone);mulher;34;0;1;231919;23;;S
+100;não;2;Kantor, Mr. Sinai;homem;34;1;0;244367;26;;S
+101;não;3;Petranec, Miss. Matilda;mulher;28;0;0;349245;7.8958;;S
+102;não;3;"Petroff, Mr. Pastcho (""Pentcho"")";homem;;0;0;349215;7.8958;;S
+103;não;1;White, Mr. Richard Frasar;homem;21;0;1;35281;77.2875;D26;S
+104;não;3;Johansson, Mr. Gustaf Joel;homem;33;0;0;7540;8.6542;;S
+105;não;3;Gustafsson, Mr. Anders Vilhelm;homem;37;2;0;3101276;7.925;;S
+106;não;3;Mionoff, Mr. Stoytcho;homem;28;0;0;349207;7.8958;;S
+107;sim;3;Salkjelsvik, Miss. Anna Kristine;mulher;21;0;0;343120;7.65;;S
+108;sim;3;Moss, Mr. Albert Johan;homem;;0;0;312991;7.775;;S
+109;não;3;Rekic, Mr. Tido;homem;38;0;0;349249;7.8958;;S
+110;sim;3;Moran, Miss. Bertha;mulher;;1;0;371110;24.15;;Q
+111;não;1;Porter, Mr. Walter Chamberlain;homem;47;0;0;110465;52;C110;S
+112;não;3;Zabour, Miss. Hileni;mulher;14.5;1;0;2665;14.4542;;C
+113;não;3;Barton, Mr. David John;homem;22;0;0;324669;8.05;;S
+114;não;3;Jussila, Miss. Katriina;mulher;20;1;0;4136;9.825;;S
+115;não;3;Attalah, Miss. Malake;mulher;17;0;0;2627;14.4583;;C
+116;não;3;Pekoniemi, Mr. Edvard;homem;21;0;0;STON/O 2. 3101294;7.925;;S
+117;não;3;Connors, Mr. Patrick;homem;70.5;0;0;370369;7.75;;Q
+118;não;2;Turpin, Mr. William John Robert;homem;29;1;0;11668;21;;S
+119;não;1;Baxter, Mr. Quigg Edmond;homem;24;0;1;PC 17558;247.5208;B58 B60;C
+120;não;3;Andersson, Miss. Ellis Anna Maria;mulher;2;4;2;347082;31.275;;S
+121;não;2;Hickman, Mr. Stanley George;homem;21;2;0;S.O.C. 14879;73.5;;S
+122;não;3;Moore, Mr. Leonard Charles;homem;;0;0;A4. 54510;8.05;;S
+123;não;2;Nasser, Mr. Nicholas;homem;32.5;1;0;237736;30.0708;;C
+124;sim;2;Webber, Miss. Susan;mulher;32.5;0;0;27267;13;E101;S
+125;não;1;White, Mr. Percival Wayland;homem;54;0;1;35281;77.2875;D26;S
+126;sim;3;Nicola-Yarred, Master. Elias;homem;12;1;0;2651;11.2417;;C
+127;não;3;McMahon, Mr. Martin;homem;;0;0;370372;7.75;;Q
+128;sim;3;Madsen, Mr. Fridtjof Arne;homem;24;0;0;C 17369;7.1417;;S
+129;sim;3;Peter, Miss. Anna;mulher;;1;1;2668;22.3583;F E69;C
+130;não;3;Ekstrom, Mr. Johan;homem;45;0;0;347061;6.975;;S
+131;não;3;Drazenoic, Mr. Jozef;homem;33;0;0;349241;7.8958;;C
+132;não;3;Coelho, Mr. Domingos Fernandeo;homem;20;0;0;SOTON/O.Q. 3101307;7.05;;S
+133;não;3;Robins, Mrs. Alexander A (Grace Charity Laury);mulher;47;1;0;A/5. 3337;14.5;;S
+134;sim;2;Weisz, Mrs. Leopold (Mathilde Francoise Pede);mulher;29;1;0;228414;26;;S
+135;não;2;Sobey, Mr. Samuel James Hayden;homem;25;0;0;C.A. 29178;13;;S
+136;não;2;Richard, Mr. Emile;homem;23;0;0;SC/PARIS 2133;15.0458;;C
+137;sim;1;Newsom, Miss. Helen Monypeny;mulher;19;0;2;11752;26.2833;D47;S
+138;não;1;Futrelle, Mr. Jacques Heath;homem;37;1;0;113803;53.1;C123;S
+139;não;3;Osen, Mr. Olaf Elon;homem;16;0;0;7534;9.2167;;S
+140;não;1;Giglio, Mr. Victor;homem;24;0;0;PC 17593;79.2;B86;C
+141;não;3;Boulos, Mrs. Joseph (Sultana);mulher;;0;2;2678;15.2458;;C
+142;sim;3;Nysten, Miss. Anna Sofia;mulher;22;0;0;347081;7.75;;S
+143;sim;3;Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck);mulher;24;1;0;STON/O2. 3101279;15.85;;S
+144;não;3;Burke, Mr. Jeremiah;homem;19;0;0;365222;6.75;;Q
+145;não;2;Andrew, Mr. Edgardo Samuel;homem;18;0;0;231945;11.5;;S
+146;não;2;Nicholls, Mr. Joseph Charles;homem;19;1;1;C.A. 33112;36.75;;S
+147;sim;3;"Andersson, Mr. August Edvard (""Wennerstrom"")";homem;27;0;0;350043;7.7958;;S
+148;não;3;"Ford, Miss. Robina Maggie ""Ruby""";mulher;9;2;2;W./C. 6608;34.375;;S
+149;não;2;"Navratil, Mr. Michel (""Louis M Hoffman"")";homem;36.5;0;2;230080;26;F2;S
+150;não;2;Byles, Rev. Thomas Roussel Davids;homem;42;0;0;244310;13;;S
+151;não;2;Bateman, Rev. Robert James;homem;51;0;0;S.O.P. 1166;12.525;;S
+152;sim;1;Pears, Mrs. Thomas (Edith Wearne);mulher;22;1;0;113776;66.6;C2;S
+153;não;3;Meo, Mr. Alfonzo;homem;55.5;0;0;A.5. 11206;8.05;;S
+154;não;3;van Billiard, Mr. Austin Blyler;homem;40.5;0;2;A/5. 851;14.5;;S
+155;não;3;Olsen, Mr. Ole Martin;homem;;0;0;Fa 265302;7.3125;;S
+156;não;1;Williams, Mr. Charles Duane;homem;51;0;1;PC 17597;61.3792;;C
+157;sim;3;"Gilnagh, Miss. Katherine ""Katie""";mulher;16;0;0;35851;7.7333;;Q
+158;não;3;Corn, Mr. Harry;homem;30;0;0;SOTON/OQ 392090;8.05;;S
+159;não;3;Smiljanic, Mr. Mile;homem;;0;0;315037;8.6625;;S
+160;não;3;Sage, Master. Thomas Henry;homem;;8;2;CA. 2343;69.55;;S
+161;não;3;Cribb, Mr. John Hatfield;homem;44;0;1;371362;16.1;;S
+162;sim;2;"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)";mulher;40;0;0;C.A. 33595;15.75;;S
+163;não;3;Bengtsson, Mr. John Viktor;homem;26;0;0;347068;7.775;;S
+164;não;3;Calic, Mr. Jovo;homem;17;0;0;315093;8.6625;;S
+165;não;3;Panula, Master. Eino Viljami;homem;1;4;1;3101295;39.6875;;S
+166;sim;3;"Goldsmith, Master. Frank John William ""Frankie""";homem;9;0;2;363291;20.525;;S
+167;sim;1;Chibnall, Mrs. (Edith Martha Bowerman);mulher;;0;1;113505;55;E33;S
+168;não;3;Skoog, Mrs. William (Anna Bernhardina Karlsson);mulher;45;1;4;347088;27.9;;S
+169;não;1;Baumann, Mr. John D;homem;;0;0;PC 17318;25.925;;S
+170;não;3;Ling, Mr. Lee;homem;28;0;0;1601;56.4958;;S
+171;não;1;Van der hoef, Mr. Wyckoff;homem;61;0;0;111240;33.5;B19;S
+172;não;3;Rice, Master. Arthur;homem;4;4;1;382652;29.125;;Q
+173;sim;3;Johnson, Miss. Eleanor Ileen;mulher;1;1;1;347742;11.1333;;S
+174;não;3;Sivola, Mr. Antti Wilhelm;homem;21;0;0;STON/O 2. 3101280;7.925;;S
+175;não;1;Smith, Mr. James Clinch;homem;56;0;0;17764;30.6958;A7;C
+176;não;3;Klasen, Mr. Klas Albin;homem;18;1;1;350404;7.8542;;S
+177;não;3;Lefebre, Master. Henry Forbes;homem;;3;1;4133;25.4667;;S
+178;não;1;Isham, Miss. Ann Elizabeth;mulher;50;0;0;PC 17595;28.7125;C49;C
+179;não;2;Hale, Mr. Reginald;homem;30;0;0;250653;13;;S
+180;não;3;Leonard, Mr. Lionel;homem;36;0;0;LINE;0;;S
+181;não;3;Sage, Miss. Constance Gladys;mulher;;8;2;CA. 2343;69.55;;S
+182;não;2;Pernot, Mr. Rene;homem;;0;0;SC/PARIS 2131;15.05;;C
+183;não;3;Asplund, Master. Clarence Gustaf Hugo;homem;9;4;2;347077;31.3875;;S
+184;sim;2;Becker, Master. Richard F;homem;1;2;1;230136;39;F4;S
+185;sim;3;Kink-Heilmann, Miss. Luise Gretchen;mulher;4;0;2;315153;22.025;;S
+186;não;1;Rood, Mr. Hugh Roscoe;homem;;0;0;113767;50;A32;S
+187;sim;3;"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)";mulher;;1;0;370365;15.5;;Q
+188;sim;1;"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")";homem;45;0;0;111428;26.55;;S
+189;não;3;Bourke, Mr. John;homem;40;1;1;364849;15.5;;Q
+190;não;3;Turcin, Mr. Stjepan;homem;36;0;0;349247;7.8958;;S
+191;sim;2;Pinsky, Mrs. (Rosa);mulher;32;0;0;234604;13;;S
+192;não;2;Carbines, Mr. William;homem;19;0;0;28424;13;;S
+193;sim;3;Andersen-Jensen, Miss. Carla Christine Nielsine;mulher;19;1;0;350046;7.8542;;S
+194;sim;2;Navratil, Master. Michel M;homem;3;1;1;230080;26;F2;S
+195;sim;1;Brown, Mrs. James Joseph (Margaret Tobin);mulher;44;0;0;PC 17610;27.7208;B4;C
+196;sim;1;Lurette, Miss. Elise;mulher;58;0;0;PC 17569;146.5208;B80;C
+197;não;3;Mernagh, Mr. Robert;homem;;0;0;368703;7.75;;Q
+198;não;3;Olsen, Mr. Karl Siegwart Andreas;homem;42;0;1;4579;8.4042;;S
+199;sim;3;"Madigan, Miss. Margaret ""Maggie""";mulher;;0;0;370370;7.75;;Q
+200;não;2;"Yrois, Miss. Henriette (""Mrs Harbeck"")";mulher;24;0;0;248747;13;;S
+201;não;3;Vande Walle, Mr. Nestor Cyriel;homem;28;0;0;345770;9.5;;S
+202;não;3;Sage, Mr. Frederick;homem;;8;2;CA. 2343;69.55;;S
+203;não;3;Johanson, Mr. Jakob Alfred;homem;34;0;0;3101264;6.4958;;S
+204;não;3;Youseff, Mr. Gerious;homem;45.5;0;0;2628;7.225;;C
+205;sim;3;"Cohen, Mr. Gurshon ""Gus""";homem;18;0;0;A/5 3540;8.05;;S
+206;não;3;Strom, Miss. Telma Matilda;mulher;2;0;1;347054;10.4625;G6;S
+207;não;3;Backstrom, Mr. Karl Alfred;homem;32;1;0;3101278;15.85;;S
+208;sim;3;Albimona, Mr. Nassef Cassem;homem;26;0;0;2699;18.7875;;C
+209;sim;3;"Carr, Miss. Helen ""Ellen""";mulher;16;0;0;367231;7.75;;Q
+210;sim;1;Blank, Mr. Henry;homem;40;0;0;112277;31;A31;C
+211;não;3;Ali, Mr. Ahmed;homem;24;0;0;SOTON/O.Q. 3101311;7.05;;S
+212;sim;2;Cameron, Miss. Clear Annie;mulher;35;0;0;F.C.C. 13528;21;;S
+213;não;3;Perkin, Mr. John Henry;homem;22;0;0;A/5 21174;7.25;;S
+214;não;2;Givard, Mr. Hans Kristensen;homem;30;0;0;250646;13;;S
+215;não;3;Kiernan, Mr. Philip;homem;;1;0;367229;7.75;;Q
+216;sim;1;Newell, Miss. Madeleine;mulher;31;1;0;35273;113.275;D36;C
+217;sim;3;Honkanen, Miss. Eliina;mulher;27;0;0;STON/O2. 3101283;7.925;;S
+218;não;2;Jacobsohn, Mr. Sidney Samuel;homem;42;1;0;243847;27;;S
+219;sim;1;Bazzani, Miss. Albina;mulher;32;0;0;11813;76.2917;D15;C
+220;não;2;Harris, Mr. Walter;homem;30;0;0;W/C 14208;10.5;;S
+221;sim;3;Sunderland, Mr. Victor Francis;homem;16;0;0;SOTON/OQ 392089;8.05;;S
+222;não;2;Bracken, Mr. James H;homem;27;0;0;220367;13;;S
+223;não;3;Green, Mr. George Henry;homem;51;0;0;21440;8.05;;S
+224;não;3;Nenkoff, Mr. Christo;homem;;0;0;349234;7.8958;;S
+225;sim;1;Hoyt, Mr. Frederick Maxfield;homem;38;1;0;19943;90;C93;S
+226;não;3;Berglund, Mr. Karl Ivar Sven;homem;22;0;0;PP 4348;9.35;;S
+227;sim;2;Mellors, Mr. William John;homem;19;0;0;SW/PP 751;10.5;;S
+228;não;3;"Lovell, Mr. John Hall (""Henry"")";homem;20.5;0;0;A/5 21173;7.25;;S
+229;não;2;Fahlstrom, Mr. Arne Jonas;homem;18;0;0;236171;13;;S
+230;não;3;Lefebre, Miss. Mathilde;mulher;;3;1;4133;25.4667;;S
+231;sim;1;Harris, Mrs. Henry Birkhardt (Irene Wallach);mulher;35;1;0;36973;83.475;C83;S
+232;não;3;Larsson, Mr. Bengt Edvin;homem;29;0;0;347067;7.775;;S
+233;não;2;Sjostedt, Mr. Ernst Adolf;homem;59;0;0;237442;13.5;;S
+234;sim;3;Asplund, Miss. Lillian Gertrud;mulher;5;4;2;347077;31.3875;;S
+235;não;2;Leyson, Mr. Robert William Norman;homem;24;0;0;C.A. 29566;10.5;;S
+236;não;3;Harknett, Miss. Alice Phoebe;mulher;;0;0;W./C. 6609;7.55;;S
+237;não;2;Hold, Mr. Stephen;homem;44;1;0;26707;26;;S
+238;sim;2;"Collyer, Miss. Marjorie ""Lottie""";mulher;8;0;2;C.A. 31921;26.25;;S
+239;não;2;Pengelly, Mr. Frederick William;homem;19;0;0;28665;10.5;;S
+240;não;2;Hunt, Mr. George Henry;homem;33;0;0;SCO/W 1585;12.275;;S
+241;não;3;Zabour, Miss. Thamine;mulher;;1;0;2665;14.4542;;C
+242;sim;3;"Murphy, Miss. Katherine ""Kate""";mulher;;1;0;367230;15.5;;Q
+243;não;2;Coleridge, Mr. Reginald Charles;homem;29;0;0;W./C. 14263;10.5;;S
+244;não;3;Maenpaa, Mr. Matti Alexanteri;homem;22;0;0;STON/O 2. 3101275;7.125;;S
+245;não;3;Attalah, Mr. Sleiman;homem;30;0;0;2694;7.225;;C
+246;não;1;Minahan, Dr. William Edward;homem;44;2;0;19928;90;C78;Q
+247;não;3;Lindahl, Miss. Agda Thorilda Viktoria;mulher;25;0;0;347071;7.775;;S
+248;sim;2;Hamalainen, Mrs. William (Anna);mulher;24;0;2;250649;14.5;;S
+249;sim;1;Beckwith, Mr. Richard Leonard;homem;37;1;1;11751;52.5542;D35;S
+250;não;2;Carter, Rev. Ernest Courtenay;homem;54;1;0;244252;26;;S
+251;não;3;Reed, Mr. James George;homem;;0;0;362316;7.25;;S
+252;não;3;Strom, Mrs. Wilhelm (Elna Matilda Persson);mulher;29;1;1;347054;10.4625;G6;S
+253;não;1;Stead, Mr. William Thomas;homem;62;0;0;113514;26.55;C87;S
+254;não;3;Lobb, Mr. William Arthur;homem;30;1;0;A/5. 3336;16.1;;S
+255;não;3;Rosblom, Mrs. Viktor (Helena Wilhelmina);mulher;41;0;2;370129;20.2125;;S
+256;sim;3;Touma, Mrs. Darwis (Hanne Youssef Razi);mulher;29;0;2;2650;15.2458;;C
+257;sim;1;Thorne, Mrs. Gertrude Maybelle;mulher;;0;0;PC 17585;79.2;;C
+258;sim;1;Cherry, Miss. Gladys;mulher;30;0;0;110152;86.5;B77;S
+259;sim;1;Ward, Miss. Anna;mulher;35;0;0;PC 17755;512.3292;;C
+260;sim;2;Parrish, Mrs. (Lutie Davis);mulher;50;0;1;230433;26;;S
+261;não;3;Smith, Mr. Thomas;homem;;0;0;384461;7.75;;Q
+262;sim;3;Asplund, Master. Edvin Rojj Felix;homem;3;4;2;347077;31.3875;;S
+263;não;1;Taussig, Mr. Emil;homem;52;1;1;110413;79.65;E67;S
+264;não;1;Harrison, Mr. William;homem;40;0;0;112059;0;B94;S
+265;não;3;Henry, Miss. Delia;mulher;;0;0;382649;7.75;;Q
+266;não;2;Reeves, Mr. David;homem;36;0;0;C.A. 17248;10.5;;S
+267;não;3;Panula, Mr. Ernesti Arvid;homem;16;4;1;3101295;39.6875;;S
+268;sim;3;Persson, Mr. Ernst Ulrik;homem;25;1;0;347083;7.775;;S
+269;sim;1;Graham, Mrs. William Thompson (Edith Junkins);mulher;58;0;1;PC 17582;153.4625;C125;S
+270;sim;1;Bissette, Miss. Amelia;mulher;35;0;0;PC 17760;135.6333;C99;S
+271;não;1;Cairns, Mr. Alexander;homem;;0;0;113798;31;;S
+272;sim;3;Tornquist, Mr. William Henry;homem;25;0;0;LINE;0;;S
+273;sim;2;Mellinger, Mrs. (Elizabeth Anne Maidment);mulher;41;0;1;250644;19.5;;S
+274;não;1;Natsch, Mr. Charles H;homem;37;0;1;PC 17596;29.7;C118;C
+275;sim;3;"Healy, Miss. Hanora ""Nora""";mulher;;0;0;370375;7.75;;Q
+276;sim;1;Andrews, Miss. Kornelia Theodosia;mulher;63;1;0;13502;77.9583;D7;S
+277;não;3;Lindblom, Miss. Augusta Charlotta;mulher;45;0;0;347073;7.75;;S
+278;não;2;"Parkes, Mr. Francis ""Frank""";homem;;0;0;239853;0;;S
+279;não;3;Rice, Master. Eric;homem;7;4;1;382652;29.125;;Q
+280;sim;3;Abbott, Mrs. Stanton (Rosa Hunt);mulher;35;1;1;C.A. 2673;20.25;;S
+281;não;3;Duane, Mr. Frank;homem;65;0;0;336439;7.75;;Q
+282;não;3;Olsson, Mr. Nils Johan Goransson;homem;28;0;0;347464;7.8542;;S
+283;não;3;de Pelsmaeker, Mr. Alfons;homem;16;0;0;345778;9.5;;S
+284;sim;3;Dorking, Mr. Edward Arthur;homem;19;0;0;A/5. 10482;8.05;;S
+285;não;1;Smith, Mr. Richard William;homem;;0;0;113056;26;A19;S
+286;não;3;Stankovic, Mr. Ivan;homem;33;0;0;349239;8.6625;;C
+287;sim;3;de Mulder, Mr. Theodore;homem;30;0;0;345774;9.5;;S
+288;não;3;Naidenoff, Mr. Penko;homem;22;0;0;349206;7.8958;;S
+289;sim;2;Hosono, Mr. Masabumi;homem;42;0;0;237798;13;;S
+290;sim;3;Connolly, Miss. Kate;mulher;22;0;0;370373;7.75;;Q
+291;sim;1;"Barber, Miss. Ellen ""Nellie""";mulher;26;0;0;19877;78.85;;S
+292;sim;1;Bishop, Mrs. Dickinson H (Helen Walton);mulher;19;1;0;11967;91.0792;B49;C
+293;não;2;Levy, Mr. Rene Jacques;homem;36;0;0;SC/Paris 2163;12.875;D;C
+294;não;3;Haas, Miss. Aloisia;mulher;24;0;0;349236;8.85;;S
+295;não;3;Mineff, Mr. Ivan;homem;24;0;0;349233;7.8958;;S
+296;não;1;Lewy, Mr. Ervin G;homem;;0;0;PC 17612;27.7208;;C
+297;não;3;Hanna, Mr. Mansour;homem;23.5;0;0;2693;7.2292;;C
+298;não;1;Allison, Miss. Helen Loraine;mulher;2;1;2;113781;151.55;C22 C26;S
+299;sim;1;Saalfeld, Mr. Adolphe;homem;;0;0;19988;30.5;C106;S
+300;sim;1;Baxter, Mrs. James (Helene DeLaudeniere Chaput);mulher;50;0;1;PC 17558;247.5208;B58 B60;C
+301;sim;3;"Kelly, Miss. Anna Katherine ""Annie Kate""";mulher;;0;0;9234;7.75;;Q
+302;sim;3;McCoy, Mr. Bernard;homem;;2;0;367226;23.25;;Q
+303;não;3;Johnson, Mr. William Cahoone Jr;homem;19;0;0;LINE;0;;S
+304;sim;2;Keane, Miss. Nora A;mulher;;0;0;226593;12.35;E101;Q
+305;não;3;"Williams, Mr. Howard Hugh ""Harry""";homem;;0;0;A/5 2466;8.05;;S
+306;sim;1;Allison, Master. Hudson Trevor;homem;0.92;1;2;113781;151.55;C22 C26;S
+307;sim;1;Fleming, Miss. Margaret;mulher;;0;0;17421;110.8833;;C
+308;sim;1;Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo);mulher;17;1;0;PC 17758;108.9;C65;C
+309;não;2;Abelson, Mr. Samuel;homem;30;1;0;P/PP 3381;24;;C
+310;sim;1;Francatelli, Miss. Laura Mabel;mulher;30;0;0;PC 17485;56.9292;E36;C
+311;sim;1;Hays, Miss. Margaret Bechstein;mulher;24;0;0;11767;83.1583;C54;C
+312;sim;1;Ryerson, Miss. Emily Borie;mulher;18;2;2;PC 17608;262.375;B57 B59 B63 B66;C
+313;não;2;Lahtinen, Mrs. William (Anna Sylfven);mulher;26;1;1;250651;26;;S
+314;não;3;Hendekovic, Mr. Ignjac;homem;28;0;0;349243;7.8958;;S
+315;não;2;Hart, Mr. Benjamin;homem;43;1;1;F.C.C. 13529;26.25;;S
+316;sim;3;Nilsson, Miss. Helmina Josefina;mulher;26;0;0;347470;7.8542;;S
+317;sim;2;Kantor, Mrs. Sinai (Miriam Sternin);mulher;24;1;0;244367;26;;S
+318;não;2;Moraweck, Dr. Ernest;homem;54;0;0;29011;14;;S
+319;sim;1;Wick, Miss. Mary Natalie;mulher;31;0;2;36928;164.8667;C7;S
+320;sim;1;Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone);mulher;40;1;1;16966;134.5;E34;C
+321;não;3;Dennis, Mr. Samuel;homem;22;0;0;A/5 21172;7.25;;S
+322;não;3;Danoff, Mr. Yoto;homem;27;0;0;349219;7.8958;;S
+323;sim;2;Slayter, Miss. Hilda Mary;mulher;30;0;0;234818;12.35;;Q
+324;sim;2;Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh);mulher;22;1;1;248738;29;;S
+325;não;3;Sage, Mr. George John Jr;homem;;8;2;CA. 2343;69.55;;S
+326;sim;1;Young, Miss. Marie Grice;mulher;36;0;0;PC 17760;135.6333;C32;C
+327;não;3;Nysveen, Mr. Johan Hansen;homem;61;0;0;345364;6.2375;;S
+328;sim;2;Ball, Mrs. (Ada E Hall);mulher;36;0;0;28551;13;D;S
+329;sim;3;Goldsmith, Mrs. Frank John (Emily Alice Brown);mulher;31;1;1;363291;20.525;;S
+330;sim;1;Hippach, Miss. Jean Gertrude;mulher;16;0;1;111361;57.9792;B18;C
+331;sim;3;McCoy, Miss. Agnes;mulher;;2;0;367226;23.25;;Q
+332;não;1;Partner, Mr. Austen;homem;45.5;0;0;113043;28.5;C124;S
+333;não;1;Graham, Mr. George Edward;homem;38;0;1;PC 17582;153.4625;C91;S
+334;não;3;Vander Planke, Mr. Leo Edmondus;homem;16;2;0;345764;18;;S
+335;sim;1;Frauenthal, Mrs. Henry William (Clara Heinsheimer);mulher;;1;0;PC 17611;133.65;;S
+336;não;3;Denkoff, Mr. Mitto;homem;;0;0;349225;7.8958;;S
+337;não;1;Pears, Mr. Thomas Clinton;homem;29;1;0;113776;66.6;C2;S
+338;sim;1;Burns, Miss. Elizabeth Margaret;mulher;41;0;0;16966;134.5;E40;C
+339;sim;3;Dahl, Mr. Karl Edwart;homem;45;0;0;7598;8.05;;S
+340;não;1;Blackwell, Mr. Stephen Weart;homem;45;0;0;113784;35.5;T;S
+341;sim;2;Navratil, Master. Edmond Roger;homem;2;1;1;230080;26;F2;S
+342;sim;1;Fortune, Miss. Alice Elizabeth;mulher;24;3;2;19950;263;C23 C25 C27;S
+343;não;2;Collander, Mr. Erik Gustaf;homem;28;0;0;248740;13;;S
+344;não;2;Sedgwick, Mr. Charles Frederick Waddington;homem;25;0;0;244361;13;;S
+345;não;2;Fox, Mr. Stanley Hubert;homem;36;0;0;229236;13;;S
+346;sim;2;"Brown, Miss. Amelia ""Mildred""";mulher;24;0;0;248733;13;F33;S
+347;sim;2;Smith, Miss. Marion Elsie;mulher;40;0;0;31418;13;;S
+348;sim;3;Davison, Mrs. Thomas Henry (Mary E Finck);mulher;;1;0;386525;16.1;;S
+349;sim;3;"Coutts, Master. William Loch ""William""";homem;3;1;1;C.A. 37671;15.9;;S
+350;não;3;Dimic, Mr. Jovan;homem;42;0;0;315088;8.6625;;S
+351;não;3;Odahl, Mr. Nils Martin;homem;23;0;0;7267;9.225;;S
+352;não;1;Williams-Lambert, Mr. Fletcher Fellows;homem;;0;0;113510;35;C128;S
+353;não;3;Elias, Mr. Tannous;homem;15;1;1;2695;7.2292;;C
+354;não;3;Arnold-Franchi, Mr. Josef;homem;25;1;0;349237;17.8;;S
+355;não;3;Yousif, Mr. Wazli;homem;;0;0;2647;7.225;;C
+356;não;3;Vanden Steen, Mr. Leo Peter;homem;28;0;0;345783;9.5;;S
+357;sim;1;Bowerman, Miss. Elsie Edith;mulher;22;0;1;113505;55;E33;S
+358;não;2;Funk, Miss. Annie Clemmer;mulher;38;0;0;237671;13;;S
+359;sim;3;McGovern, Miss. Mary;mulher;;0;0;330931;7.8792;;Q
+360;sim;3;"Mockler, Miss. Helen Mary ""Ellie""";mulher;;0;0;330980;7.8792;;Q
+361;não;3;Skoog, Mr. Wilhelm;homem;40;1;4;347088;27.9;;S
+362;não;2;del Carlo, Mr. Sebastiano;homem;29;1;0;SC/PARIS 2167;27.7208;;C
+363;não;3;Barbara, Mrs. (Catherine David);mulher;45;0;1;2691;14.4542;;C
+364;não;3;Asim, Mr. Adola;homem;35;0;0;SOTON/O.Q. 3101310;7.05;;S
+365;não;3;O'Brien, Mr. Thomas;homem;;1;0;370365;15.5;;Q
+366;não;3;Adahl, Mr. Mauritz Nils Martin;homem;30;0;0;C 7076;7.25;;S
+367;sim;1;Warren, Mrs. Frank Manley (Anna Sophia Atkinson);mulher;60;1;0;110813;75.25;D37;C
+368;sim;3;Moussa, Mrs. (Mantoura Boulos);mulher;;0;0;2626;7.2292;;C
+369;sim;3;Jermyn, Miss. Annie;mulher;;0;0;14313;7.75;;Q
+370;sim;1;Aubart, Mme. Leontine Pauline;mulher;24;0;0;PC 17477;69.3;B35;C
+371;sim;1;Harder, Mr. George Achilles;homem;25;1;0;11765;55.4417;E50;C
+372;não;3;Wiklund, Mr. Jakob Alfred;homem;18;1;0;3101267;6.4958;;S
+373;não;3;Beavan, Mr. William Thomas;homem;19;0;0;323951;8.05;;S
+374;não;1;Ringhini, Mr. Sante;homem;22;0;0;PC 17760;135.6333;;C
+375;não;3;Palsson, Miss. Stina Viola;mulher;3;3;1;349909;21.075;;S
+376;sim;1;Meyer, Mrs. Edgar Joseph (Leila Saks);mulher;;1;0;PC 17604;82.1708;;C
+377;sim;3;Landergren, Miss. Aurora Adelia;mulher;22;0;0;C 7077;7.25;;S
+378;não;1;Widener, Mr. Harry Elkins;homem;27;0;2;113503;211.5;C82;C
+379;não;3;Betros, Mr. Tannous;homem;20;0;0;2648;4.0125;;C
+380;não;3;Gustafsson, Mr. Karl Gideon;homem;19;0;0;347069;7.775;;S
+381;sim;1;Bidois, Miss. Rosalie;mulher;42;0;0;PC 17757;227.525;;C
+382;sim;3;"Nakid, Miss. Maria (""Mary"")";mulher;1;0;2;2653;15.7417;;C
+383;não;3;Tikkanen, Mr. Juho;homem;32;0;0;STON/O 2. 3101293;7.925;;S
+384;sim;1;Holverson, Mrs. Alexander Oskar (Mary Aline Towner);mulher;35;1;0;113789;52;;S
+385;não;3;Plotcharsky, Mr. Vasil;homem;;0;0;349227;7.8958;;S
+386;não;2;Davies, Mr. Charles Henry;homem;18;0;0;S.O.C. 14879;73.5;;S
+387;não;3;Goodwin, Master. Sidney Leonard;homem;1;5;2;CA 2144;46.9;;S
+388;sim;2;Buss, Miss. Kate;mulher;36;0;0;27849;13;;S
+389;não;3;Sadlier, Mr. Matthew;homem;;0;0;367655;7.7292;;Q
+390;sim;2;Lehmann, Miss. Bertha;mulher;17;0;0;SC 1748;12;;C
+391;sim;1;Carter, Mr. William Ernest;homem;36;1;2;113760;120;B96 B98;S
+392;sim;3;Jansson, Mr. Carl Olof;homem;21;0;0;350034;7.7958;;S
+393;não;3;Gustafsson, Mr. Johan Birger;homem;28;2;0;3101277;7.925;;S
+394;sim;1;Newell, Miss. Marjorie;mulher;23;1;0;35273;113.275;D36;C
+395;sim;3;Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson);mulher;24;0;2;PP 9549;16.7;G6;S
+396;não;3;Johansson, Mr. Erik;homem;22;0;0;350052;7.7958;;S
+397;não;3;Olsson, Miss. Elina;mulher;31;0;0;350407;7.8542;;S
+398;não;2;McKane, Mr. Peter David;homem;46;0;0;28403;26;;S
+399;não;2;Pain, Dr. Alfred;homem;23;0;0;244278;10.5;;S
+400;sim;2;Trout, Mrs. William H (Jessie L);mulher;28;0;0;240929;12.65;;S
+401;sim;3;Niskanen, Mr. Juha;homem;39;0;0;STON/O 2. 3101289;7.925;;S
+402;não;3;Adams, Mr. John;homem;26;0;0;341826;8.05;;S
+403;não;3;Jussila, Miss. Mari Aina;mulher;21;1;0;4137;9.825;;S
+404;não;3;Hakkarainen, Mr. Pekka Pietari;homem;28;1;0;STON/O2. 3101279;15.85;;S
+405;não;3;Oreskovic, Miss. Marija;mulher;20;0;0;315096;8.6625;;S
+406;não;2;Gale, Mr. Shadrach;homem;34;1;0;28664;21;;S
+407;não;3;Widegren, Mr. Carl/Charles Peter;homem;51;0;0;347064;7.75;;S
+408;sim;2;Richards, Master. William Rowe;homem;3;1;1;29106;18.75;;S
+409;não;3;Birkeland, Mr. Hans Martin Monsen;homem;21;0;0;312992;7.775;;S
+410;não;3;Lefebre, Miss. Ida;mulher;;3;1;4133;25.4667;;S
+411;não;3;Sdycoff, Mr. Todor;homem;;0;0;349222;7.8958;;S
+412;não;3;Hart, Mr. Henry;homem;;0;0;394140;6.8583;;Q
+413;sim;1;Minahan, Miss. Daisy E;mulher;33;1;0;19928;90;C78;Q
+414;não;2;Cunningham, Mr. Alfred Fleming;homem;;0;0;239853;0;;S
+415;sim;3;Sundman, Mr. Johan Julian;homem;44;0;0;STON/O 2. 3101269;7.925;;S
+416;não;3;Meek, Mrs. Thomas (Annie Louise Rowley);mulher;;0;0;343095;8.05;;S
+417;sim;2;Drew, Mrs. James Vivian (Lulu Thorne Christian);mulher;34;1;1;28220;32.5;;S
+418;sim;2;Silven, Miss. Lyyli Karoliina;mulher;18;0;2;250652;13;;S
+419;não;2;Matthews, Mr. William John;homem;30;0;0;28228;13;;S
+420;não;3;Van Impe, Miss. Catharina;mulher;10;0;2;345773;24.15;;S
+421;não;3;Gheorgheff, Mr. Stanio;homem;;0;0;349254;7.8958;;C
+422;não;3;Charters, Mr. David;homem;21;0;0;A/5. 13032;7.7333;;Q
+423;não;3;Zimmerman, Mr. Leo;homem;29;0;0;315082;7.875;;S
+424;não;3;Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren);mulher;28;1;1;347080;14.4;;S
+425;não;3;Rosblom, Mr. Viktor Richard;homem;18;1;1;370129;20.2125;;S
+426;não;3;Wiseman, Mr. Phillippe;homem;;0;0;A/4. 34244;7.25;;S
+427;sim;2;Clarke, Mrs. Charles V (Ada Maria Winfield);mulher;28;1;0;2003;26;;S
+428;sim;2;"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")";mulher;19;0;0;250655;26;;S
+429;não;3;Flynn, Mr. James;homem;;0;0;364851;7.75;;Q
+430;sim;3;Pickard, Mr. Berk (Berk Trembisky);homem;32;0;0;SOTON/O.Q. 392078;8.05;E10;S
+431;sim;1;Bjornstrom-Steffansson, Mr. Mauritz Hakan;homem;28;0;0;110564;26.55;C52;S
+432;sim;3;Thorneycroft, Mrs. Percival (Florence Kate White);mulher;;1;0;376564;16.1;;S
+433;sim;2;Louch, Mrs. Charles Alexander (Alice Adelaide Slow);mulher;42;1;0;SC/AH 3085;26;;S
+434;não;3;Kallio, Mr. Nikolai Erland;homem;17;0;0;STON/O 2. 3101274;7.125;;S
+435;não;1;Silvey, Mr. William Baird;homem;50;1;0;13507;55.9;E44;S
+436;sim;1;Carter, Miss. Lucile Polk;mulher;14;1;2;113760;120;B96 B98;S
+437;não;3;"Ford, Miss. Doolina Margaret ""Daisy""";mulher;21;2;2;W./C. 6608;34.375;;S
+438;sim;2;Richards, Mrs. Sidney (Emily Hocking);mulher;24;2;3;29106;18.75;;S
+439;não;1;Fortune, Mr. Mark;homem;64;1;4;19950;263;C23 C25 C27;S
+440;não;2;Kvillner, Mr. Johan Henrik Johannesson;homem;31;0;0;C.A. 18723;10.5;;S
+441;sim;2;Hart, Mrs. Benjamin (Esther Ada Bloomfield);mulher;45;1;1;F.C.C. 13529;26.25;;S
+442;não;3;Hampe, Mr. Leon;homem;20;0;0;345769;9.5;;S
+443;não;3;Petterson, Mr. Johan Emil;homem;25;1;0;347076;7.775;;S
+444;sim;2;Reynaldo, Ms. Encarnacion;mulher;28;0;0;230434;13;;S
+445;sim;3;Johannesen-Bratthammer, Mr. Bernt;homem;;0;0;65306;8.1125;;S
+446;sim;1;Dodge, Master. Washington;homem;4;0;2;33638;81.8583;A34;S
+447;sim;2;Mellinger, Miss. Madeleine Violet;mulher;13;0;1;250644;19.5;;S
+448;sim;1;Seward, Mr. Frederic Kimber;homem;34;0;0;113794;26.55;;S
+449;sim;3;Baclini, Miss. Marie Catherine;mulher;5;2;1;2666;19.2583;;C
+450;sim;1;Peuchen, Major. Arthur Godfrey;homem;52;0;0;113786;30.5;C104;S
+451;não;2;West, Mr. Edwy Arthur;homem;36;1;2;C.A. 34651;27.75;;S
+452;não;3;Hagland, Mr. Ingvald Olai Olsen;homem;;1;0;65303;19.9667;;S
+453;não;1;Foreman, Mr. Benjamin Laventall;homem;30;0;0;113051;27.75;C111;C
+454;sim;1;Goldenberg, Mr. Samuel L;homem;49;1;0;17453;89.1042;C92;C
+455;não;3;Peduzzi, Mr. Joseph;homem;;0;0;A/5 2817;8.05;;S
+456;sim;3;Jalsevac, Mr. Ivan;homem;29;0;0;349240;7.8958;;C
+457;não;1;Millet, Mr. Francis Davis;homem;65;0;0;13509;26.55;E38;S
+458;sim;1;Kenyon, Mrs. Frederick R (Marion);mulher;;1;0;17464;51.8625;D21;S
+459;sim;2;Toomey, Miss. Ellen;mulher;50;0;0;F.C.C. 13531;10.5;;S
+460;não;3;O'Connor, Mr. Maurice;homem;;0;0;371060;7.75;;Q
+461;sim;1;Anderson, Mr. Harry;homem;48;0;0;19952;26.55;E12;S
+462;não;3;Morley, Mr. William;homem;34;0;0;364506;8.05;;S
+463;não;1;Gee, Mr. Arthur H;homem;47;0;0;111320;38.5;E63;S
+464;não;2;Milling, Mr. Jacob Christian;homem;48;0;0;234360;13;;S
+465;não;3;Maisner, Mr. Simon;homem;;0;0;A/S 2816;8.05;;S
+466;não;3;Goncalves, Mr. Manuel Estanslas;homem;38;0;0;SOTON/O.Q. 3101306;7.05;;S
+467;não;2;Campbell, Mr. William;homem;;0;0;239853;0;;S
+468;não;1;Smart, Mr. John Montgomery;homem;56;0;0;113792;26.55;;S
+469;não;3;Scanlan, Mr. James;homem;;0;0;36209;7.725;;Q
+470;sim;3;Baclini, Miss. Helene Barbara;mulher;0.75;2;1;2666;19.2583;;C
+471;não;3;Keefe, Mr. Arthur;homem;;0;0;323592;7.25;;S
+472;não;3;Cacic, Mr. Luka;homem;38;0;0;315089;8.6625;;S
+473;sim;2;West, Mrs. Edwy Arthur (Ada Mary Worth);mulher;33;1;2;C.A. 34651;27.75;;S
+474;sim;2;Jerwan, Mrs. Amin S (Marie Marthe Thuillard);mulher;23;0;0;SC/AH Basle 541;13.7917;D;C
+475;não;3;Strandberg, Miss. Ida Sofia;mulher;22;0;0;7553;9.8375;;S
+476;não;1;Clifford, Mr. George Quincy;homem;;0;0;110465;52;A14;S
+477;não;2;Renouf, Mr. Peter Henry;homem;34;1;0;31027;21;;S
+478;não;3;Braund, Mr. Lewis Richard;homem;29;1;0;3460;7.0458;;S
+479;não;3;Karlsson, Mr. Nils August;homem;22;0;0;350060;7.5208;;S
+480;sim;3;Hirvonen, Miss. Hildur E;mulher;2;0;1;3101298;12.2875;;S
+481;não;3;Goodwin, Master. Harold Victor;homem;9;5;2;CA 2144;46.9;;S
+482;não;2;"Frost, Mr. Anthony Wood ""Archie""";homem;;0;0;239854;0;;S
+483;não;3;Rouse, Mr. Richard Henry;homem;50;0;0;A/5 3594;8.05;;S
+484;sim;3;Turkula, Mrs. (Hedwig);mulher;63;0;0;4134;9.5875;;S
+485;sim;1;Bishop, Mr. Dickinson H;homem;25;1;0;11967;91.0792;B49;C
+486;não;3;Lefebre, Miss. Jeannie;mulher;;3;1;4133;25.4667;;S
+487;sim;1;Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby);mulher;35;1;0;19943;90;C93;S
+488;não;1;Kent, Mr. Edward Austin;homem;58;0;0;11771;29.7;B37;C
+489;não;3;Somerton, Mr. Francis William;homem;30;0;0;A.5. 18509;8.05;;S
+490;sim;3;"Coutts, Master. Eden Leslie ""Neville""";homem;9;1;1;C.A. 37671;15.9;;S
+491;não;3;Hagland, Mr. Konrad Mathias Reiersen;homem;;1;0;65304;19.9667;;S
+492;não;3;Windelov, Mr. Einar;homem;21;0;0;SOTON/OQ 3101317;7.25;;S
+493;não;1;Molson, Mr. Harry Markland;homem;55;0;0;113787;30.5;C30;S
+494;não;1;Artagaveytia, Mr. Ramon;homem;71;0;0;PC 17609;49.5042;;C
+495;não;3;Stanley, Mr. Edward Roland;homem;21;0;0;A/4 45380;8.05;;S
+496;não;3;Yousseff, Mr. Gerious;homem;;0;0;2627;14.4583;;C
+497;sim;1;Eustis, Miss. Elizabeth Mussey;mulher;54;1;0;36947;78.2667;D20;C
+498;não;3;Shellard, Mr. Frederick William;homem;;0;0;C.A. 6212;15.1;;S
+499;não;1;Allison, Mrs. Hudson J C (Bessie Waldo Daniels);mulher;25;1;2;113781;151.55;C22 C26;S
+500;não;3;Svensson, Mr. Olof;homem;24;0;0;350035;7.7958;;S
+501;não;3;Calic, Mr. Petar;homem;17;0;0;315086;8.6625;;S
+502;não;3;Canavan, Miss. Mary;mulher;21;0;0;364846;7.75;;Q
+503;não;3;O'Sullivan, Miss. Bridget Mary;mulher;;0;0;330909;7.6292;;Q
+504;não;3;Laitinen, Miss. Kristina Sofia;mulher;37;0;0;4135;9.5875;;S
+505;sim;1;Maioni, Miss. Roberta;mulher;16;0;0;110152;86.5;B79;S
+506;não;1;Penasco y Castellana, Mr. Victor de Satode;homem;18;1;0;PC 17758;108.9;C65;C
+507;sim;2;Quick, Mrs. Frederick Charles (Jane Richards);mulher;33;0;2;26360;26;;S
+508;sim;1;"Bradley, Mr. George (""George Arthur Brayton"")";homem;;0;0;111427;26.55;;S
+509;não;3;Olsen, Mr. Henry Margido;homem;28;0;0;C 4001;22.525;;S
+510;sim;3;Lang, Mr. Fang;homem;26;0;0;1601;56.4958;;S
+511;sim;3;Daly, Mr. Eugene Patrick;homem;29;0;0;382651;7.75;;Q
+512;não;3;Webber, Mr. James;homem;;0;0;SOTON/OQ 3101316;8.05;;S
+513;sim;1;McGough, Mr. James Robert;homem;36;0;0;PC 17473;26.2875;E25;S
+514;sim;1;Rothschild, Mrs. Martin (Elizabeth L. Barrett);mulher;54;1;0;PC 17603;59.4;;C
+515;não;3;Coleff, Mr. Satio;homem;24;0;0;349209;7.4958;;S
+516;não;1;Walker, Mr. William Anderson;homem;47;0;0;36967;34.0208;D46;S
+517;sim;2;Lemore, Mrs. (Amelia Milley);mulher;34;0;0;C.A. 34260;10.5;F33;S
+518;não;3;Ryan, Mr. Patrick;homem;;0;0;371110;24.15;;Q
+519;sim;2;"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)";mulher;36;1;0;226875;26;;S
+520;não;3;Pavlovic, Mr. Stefo;homem;32;0;0;349242;7.8958;;S
+521;sim;1;Perreault, Miss. Anne;mulher;30;0;0;12749;93.5;B73;S
+522;não;3;Vovk, Mr. Janko;homem;22;0;0;349252;7.8958;;S
+523;não;3;Lahoud, Mr. Sarkis;homem;;0;0;2624;7.225;;C
+524;sim;1;Hippach, Mrs. Louis Albert (Ida Sophia Fischer);mulher;44;0;1;111361;57.9792;B18;C
+525;não;3;Kassem, Mr. Fared;homem;;0;0;2700;7.2292;;C
+526;não;3;Farrell, Mr. James;homem;40.5;0;0;367232;7.75;;Q
+527;sim;2;Ridsdale, Miss. Lucy;mulher;50;0;0;W./C. 14258;10.5;;S
+528;não;1;Farthing, Mr. John;homem;;0;0;PC 17483;221.7792;C95;S
+529;não;3;Salonen, Mr. Johan Werner;homem;39;0;0;3101296;7.925;;S
+530;não;2;Hocking, Mr. Richard George;homem;23;2;1;29104;11.5;;S
+531;sim;2;Quick, Miss. Phyllis May;mulher;2;1;1;26360;26;;S
+532;não;3;Toufik, Mr. Nakli;homem;;0;0;2641;7.2292;;C
+533;não;3;Elias, Mr. Joseph Jr;homem;17;1;1;2690;7.2292;;C
+534;sim;3;Peter, Mrs. Catherine (Catherine Rizk);mulher;;0;2;2668;22.3583;;C
+535;não;3;Cacic, Miss. Marija;mulher;30;0;0;315084;8.6625;;S
+536;sim;2;Hart, Miss. Eva Miriam;mulher;7;0;2;F.C.C. 13529;26.25;;S
+537;não;1;Butt, Major. Archibald Willingham;homem;45;0;0;113050;26.55;B38;S
+538;sim;1;LeRoy, Miss. Bertha;mulher;30;0;0;PC 17761;106.425;;C
+539;não;3;Risien, Mr. Samuel Beard;homem;;0;0;364498;14.5;;S
+540;sim;1;Frolicher, Miss. Hedwig Margaritha;mulher;22;0;2;13568;49.5;B39;C
+541;sim;1;Crosby, Miss. Harriet R;mulher;36;0;2;WE/P 5735;71;B22;S
+542;não;3;Andersson, Miss. Ingeborg Constanzia;mulher;9;4;2;347082;31.275;;S
+543;não;3;Andersson, Miss. Sigrid Elisabeth;mulher;11;4;2;347082;31.275;;S
+544;sim;2;Beane, Mr. Edward;homem;32;1;0;2908;26;;S
+545;não;1;Douglas, Mr. Walter Donald;homem;50;1;0;PC 17761;106.425;C86;C
+546;não;1;Nicholson, Mr. Arthur Ernest;homem;64;0;0;693;26;;S
+547;sim;2;Beane, Mrs. Edward (Ethel Clarke);mulher;19;1;0;2908;26;;S
+548;sim;2;Padro y Manent, Mr. Julian;homem;;0;0;SC/PARIS 2146;13.8625;;C
+549;não;3;Goldsmith, Mr. Frank John;homem;33;1;1;363291;20.525;;S
+550;sim;2;Davies, Master. John Morgan Jr;homem;8;1;1;C.A. 33112;36.75;;S
+551;sim;1;Thayer, Mr. John Borland Jr;homem;17;0;2;17421;110.8833;C70;C
+552;não;2;Sharp, Mr. Percival James R;homem;27;0;0;244358;26;;S
+553;não;3;O'Brien, Mr. Timothy;homem;;0;0;330979;7.8292;;Q
+554;sim;3;"Leeni, Mr. Fahim (""Philip Zenni"")";homem;22;0;0;2620;7.225;;C
+555;sim;3;Ohman, Miss. Velin;mulher;22;0;0;347085;7.775;;S
+556;não;1;Wright, Mr. George;homem;62;0;0;113807;26.55;;S
+557;sim;1;"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")";mulher;48;1;0;11755;39.6;A16;C
+558;não;1;Robbins, Mr. Victor;homem;;0;0;PC 17757;227.525;;C
+559;sim;1;Taussig, Mrs. Emil (Tillie Mandelbaum);mulher;39;1;1;110413;79.65;E67;S
+560;sim;3;de Messemaeker, Mrs. Guillaume Joseph (Emma);mulher;36;1;0;345572;17.4;;S
+561;não;3;Morrow, Mr. Thomas Rowan;homem;;0;0;372622;7.75;;Q
+562;não;3;Sivic, Mr. Husein;homem;40;0;0;349251;7.8958;;S
+563;não;2;Norman, Mr. Robert Douglas;homem;28;0;0;218629;13.5;;S
+564;não;3;Simmons, Mr. John;homem;;0;0;SOTON/OQ 392082;8.05;;S
+565;não;3;Meanwell, Miss. (Marion Ogden);mulher;;0;0;SOTON/O.Q. 392087;8.05;;S
+566;não;3;Davies, Mr. Alfred J;homem;24;2;0;A/4 48871;24.15;;S
+567;não;3;Stoytcheff, Mr. Ilia;homem;19;0;0;349205;7.8958;;S
+568;não;3;Palsson, Mrs. Nils (Alma Cornelia Berglund);mulher;29;0;4;349909;21.075;;S
+569;não;3;Doharr, Mr. Tannous;homem;;0;0;2686;7.2292;;C
+570;sim;3;Jonsson, Mr. Carl;homem;32;0;0;350417;7.8542;;S
+571;sim;2;Harris, Mr. George;homem;62;0;0;S.W./PP 752;10.5;;S
+572;sim;1;Appleton, Mrs. Edward Dale (Charlotte Lamson);mulher;53;2;0;11769;51.4792;C101;S
+573;sim;1;"Flynn, Mr. John Irwin (""Irving"")";homem;36;0;0;PC 17474;26.3875;E25;S
+574;sim;3;Kelly, Miss. Mary;mulher;;0;0;14312;7.75;;Q
+575;não;3;Rush, Mr. Alfred George John;homem;16;0;0;A/4. 20589;8.05;;S
+576;não;3;Patchett, Mr. George;homem;19;0;0;358585;14.5;;S
+577;sim;2;Garside, Miss. Ethel;mulher;34;0;0;243880;13;;S
+578;sim;1;Silvey, Mrs. William Baird (Alice Munger);mulher;39;1;0;13507;55.9;E44;S
+579;não;3;Caram, Mrs. Joseph (Maria Elias);mulher;;1;0;2689;14.4583;;C
+580;sim;3;Jussila, Mr. Eiriik;homem;32;0;0;STON/O 2. 3101286;7.925;;S
+581;sim;2;Christy, Miss. Julie Rachel;mulher;25;1;1;237789;30;;S
+582;sim;1;Thayer, Mrs. John Borland (Marian Longstreth Morris);mulher;39;1;1;17421;110.8833;C68;C
+583;não;2;Downton, Mr. William James;homem;54;0;0;28403;26;;S
+584;não;1;Ross, Mr. John Hugo;homem;36;0;0;13049;40.125;A10;C
+585;não;3;Paulner, Mr. Uscher;homem;;0;0;3411;8.7125;;C
+586;sim;1;Taussig, Miss. Ruth;mulher;18;0;2;110413;79.65;E68;S
+587;não;2;Jarvis, Mr. John Denzil;homem;47;0;0;237565;15;;S
+588;sim;1;Frolicher-Stehli, Mr. Maxmillian;homem;60;1;1;13567;79.2;B41;C
+589;não;3;Gilinski, Mr. Eliezer;homem;22;0;0;14973;8.05;;S
+590;não;3;Murdlin, Mr. Joseph;homem;;0;0;A./5. 3235;8.05;;S
+591;não;3;Rintamaki, Mr. Matti;homem;35;0;0;STON/O 2. 3101273;7.125;;S
+592;sim;1;Stephenson, Mrs. Walter Bertram (Martha Eustis);mulher;52;1;0;36947;78.2667;D20;C
+593;não;3;Elsbury, Mr. William James;homem;47;0;0;A/5 3902;7.25;;S
+594;não;3;Bourke, Miss. Mary;mulher;;0;2;364848;7.75;;Q
+595;não;2;Chapman, Mr. John Henry;homem;37;1;0;SC/AH 29037;26;;S
+596;não;3;Van Impe, Mr. Jean Baptiste;homem;36;1;1;345773;24.15;;S
+597;sim;2;Leitch, Miss. Jessie Wills;mulher;;0;0;248727;33;;S
+598;não;3;Johnson, Mr. Alfred;homem;49;0;0;LINE;0;;S
+599;não;3;Boulos, Mr. Hanna;homem;;0;0;2664;7.225;;C
+600;sim;1;"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")";homem;49;1;0;PC 17485;56.9292;A20;C
+601;sim;2;Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy);mulher;24;2;1;243847;27;;S
+602;não;3;Slabenoff, Mr. Petco;homem;;0;0;349214;7.8958;;S
+603;não;1;Harrington, Mr. Charles H;homem;;0;0;113796;42.4;;S
+604;não;3;Torber, Mr. Ernst William;homem;44;0;0;364511;8.05;;S
+605;sim;1;"Homer, Mr. Harry (""Mr E Haven"")";homem;35;0;0;111426;26.55;;C
+606;não;3;Lindell, Mr. Edvard Bengtsson;homem;36;1;0;349910;15.55;;S
+607;não;3;Karaic, Mr. Milan;homem;30;0;0;349246;7.8958;;S
+608;sim;1;Daniel, Mr. Robert Williams;homem;27;0;0;113804;30.5;;S
+609;sim;2;Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue);mulher;22;1;2;SC/Paris 2123;41.5792;;C
+610;sim;1;Shutes, Miss. Elizabeth W;mulher;40;0;0;PC 17582;153.4625;C125;S
+611;não;3;Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren);mulher;39;1;5;347082;31.275;;S
+612;não;3;Jardin, Mr. Jose Neto;homem;;0;0;SOTON/O.Q. 3101305;7.05;;S
+613;sim;3;Murphy, Miss. Margaret Jane;mulher;;1;0;367230;15.5;;Q
+614;não;3;Horgan, Mr. John;homem;;0;0;370377;7.75;;Q
+615;não;3;Brocklebank, Mr. William Alfred;homem;35;0;0;364512;8.05;;S
+616;sim;2;Herman, Miss. Alice;mulher;24;1;2;220845;65;;S
+617;não;3;Danbom, Mr. Ernst Gilbert;homem;34;1;1;347080;14.4;;S
+618;não;3;Lobb, Mrs. William Arthur (Cordelia K Stanlick);mulher;26;1;0;A/5. 3336;16.1;;S
+619;sim;2;Becker, Miss. Marion Louise;mulher;4;2;1;230136;39;F4;S
+620;não;2;Gavey, Mr. Lawrence;homem;26;0;0;31028;10.5;;S
+621;não;3;Yasbeck, Mr. Antoni;homem;27;1;0;2659;14.4542;;C
+622;sim;1;Kimball, Mr. Edwin Nelson Jr;homem;42;1;0;11753;52.5542;D19;S
+623;sim;3;Nakid, Mr. Sahid;homem;20;1;1;2653;15.7417;;C
+624;não;3;Hansen, Mr. Henry Damsgaard;homem;21;0;0;350029;7.8542;;S
+625;não;3;"Bowen, Mr. David John ""Dai""";homem;21;0;0;54636;16.1;;S
+626;não;1;Sutton, Mr. Frederick;homem;61;0;0;36963;32.3208;D50;S
+627;não;2;Kirkland, Rev. Charles Leonard;homem;57;0;0;219533;12.35;;Q
+628;sim;1;Longley, Miss. Gretchen Fiske;mulher;21;0;0;13502;77.9583;D9;S
+629;não;3;Bostandyeff, Mr. Guentcho;homem;26;0;0;349224;7.8958;;S
+630;não;3;O'Connell, Mr. Patrick D;homem;;0;0;334912;7.7333;;Q
+631;sim;1;Barkworth, Mr. Algernon Henry Wilson;homem;80;0;0;27042;30;A23;S
+632;não;3;Lundahl, Mr. Johan Svensson;homem;51;0;0;347743;7.0542;;S
+633;sim;1;Stahelin-Maeglin, Dr. Max;homem;32;0;0;13214;30.5;B50;C
+634;não;1;Parr, Mr. William Henry Marsh;homem;;0;0;112052;0;;S
+635;não;3;Skoog, Miss. Mabel;mulher;9;3;2;347088;27.9;;S
+636;sim;2;Davis, Miss. Mary;mulher;28;0;0;237668;13;;S
+637;não;3;Leinonen, Mr. Antti Gustaf;homem;32;0;0;STON/O 2. 3101292;7.925;;S
+638;não;2;Collyer, Mr. Harvey;homem;31;1;1;C.A. 31921;26.25;;S
+639;não;3;Panula, Mrs. Juha (Maria Emilia Ojala);mulher;41;0;5;3101295;39.6875;;S
+640;não;3;Thorneycroft, Mr. Percival;homem;;1;0;376564;16.1;;S
+641;não;3;Jensen, Mr. Hans Peder;homem;20;0;0;350050;7.8542;;S
+642;sim;1;Sagesser, Mlle. Emma;mulher;24;0;0;PC 17477;69.3;B35;C
+643;não;3;Skoog, Miss. Margit Elizabeth;mulher;2;3;2;347088;27.9;;S
+644;sim;3;Foo, Mr. Choong;homem;;0;0;1601;56.4958;;S
+645;sim;3;Baclini, Miss. Eugenie;mulher;0.75;2;1;2666;19.2583;;C
+646;sim;1;Harper, Mr. Henry Sleeper;homem;48;1;0;PC 17572;76.7292;D33;C
+647;não;3;Cor, Mr. Liudevit;homem;19;0;0;349231;7.8958;;S
+648;sim;1;Simonius-Blumer, Col. Oberst Alfons;homem;56;0;0;13213;35.5;A26;C
+649;não;3;Willey, Mr. Edward;homem;;0;0;S.O./P.P. 751;7.55;;S
+650;sim;3;Stanley, Miss. Amy Zillah Elsie;mulher;23;0;0;CA. 2314;7.55;;S
+651;não;3;Mitkoff, Mr. Mito;homem;;0;0;349221;7.8958;;S
+652;sim;2;Doling, Miss. Elsie;mulher;18;0;1;231919;23;;S
+653;não;3;Kalvik, Mr. Johannes Halvorsen;homem;21;0;0;8475;8.4333;;S
+654;sim;3;"O'Leary, Miss. Hanora ""Norah""";mulher;;0;0;330919;7.8292;;Q
+655;não;3;"Hegarty, Miss. Hanora ""Nora""";mulher;18;0;0;365226;6.75;;Q
+656;não;2;Hickman, Mr. Leonard Mark;homem;24;2;0;S.O.C. 14879;73.5;;S
+657;não;3;Radeff, Mr. Alexander;homem;;0;0;349223;7.8958;;S
+658;não;3;Bourke, Mrs. John (Catherine);mulher;32;1;1;364849;15.5;;Q
+659;não;2;Eitemiller, Mr. George Floyd;homem;23;0;0;29751;13;;S
+660;não;1;Newell, Mr. Arthur Webster;homem;58;0;2;35273;113.275;D48;C
+661;sim;1;Frauenthal, Dr. Henry William;homem;50;2;0;PC 17611;133.65;;S
+662;não;3;Badt, Mr. Mohamed;homem;40;0;0;2623;7.225;;C
+663;não;1;Colley, Mr. Edward Pomeroy;homem;47;0;0;5727;25.5875;E58;S
+664;não;3;Coleff, Mr. Peju;homem;36;0;0;349210;7.4958;;S
+665;sim;3;Lindqvist, Mr. Eino William;homem;20;1;0;STON/O 2. 3101285;7.925;;S
+666;não;2;Hickman, Mr. Lewis;homem;32;2;0;S.O.C. 14879;73.5;;S
+667;não;2;Butler, Mr. Reginald Fenton;homem;25;0;0;234686;13;;S
+668;não;3;Rommetvedt, Mr. Knud Paust;homem;;0;0;312993;7.775;;S
+669;não;3;Cook, Mr. Jacob;homem;43;0;0;A/5 3536;8.05;;S
+670;sim;1;Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright);mulher;;1;0;19996;52;C126;S
+671;sim;2;Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford);mulher;40;1;1;29750;39;;S
+672;não;1;Davidson, Mr. Thornton;homem;31;1;0;F.C. 12750;52;B71;S
+673;não;2;Mitchell, Mr. Henry Michael;homem;70;0;0;C.A. 24580;10.5;;S
+674;sim;2;Wilhelms, Mr. Charles;homem;31;0;0;244270;13;;S
+675;não;2;Watson, Mr. Ennis Hastings;homem;;0;0;239856;0;;S
+676;não;3;Edvardsson, Mr. Gustaf Hjalmar;homem;18;0;0;349912;7.775;;S
+677;não;3;Sawyer, Mr. Frederick Charles;homem;24.5;0;0;342826;8.05;;S
+678;sim;3;Turja, Miss. Anna Sofia;mulher;18;0;0;4138;9.8417;;S
+679;não;3;Goodwin, Mrs. Frederick (Augusta Tyler);mulher;43;1;6;CA 2144;46.9;;S
+680;sim;1;Cardeza, Mr. Thomas Drake Martinez;homem;36;0;1;PC 17755;512.3292;B51 B53 B55;C
+681;não;3;Peters, Miss. Katie;mulher;;0;0;330935;8.1375;;Q
+682;sim;1;Hassab, Mr. Hammad;homem;27;0;0;PC 17572;76.7292;D49;C
+683;não;3;Olsvigen, Mr. Thor Anderson;homem;20;0;0;6563;9.225;;S
+684;não;3;Goodwin, Mr. Charles Edward;homem;14;5;2;CA 2144;46.9;;S
+685;não;2;Brown, Mr. Thomas William Solomon;homem;60;1;1;29750;39;;S
+686;não;2;Laroche, Mr. Joseph Philippe Lemercier;homem;25;1;2;SC/Paris 2123;41.5792;;C
+687;não;3;Panula, Mr. Jaako Arnold;homem;14;4;1;3101295;39.6875;;S
+688;não;3;Dakic, Mr. Branko;homem;19;0;0;349228;10.1708;;S
+689;não;3;Fischer, Mr. Eberhard Thelander;homem;18;0;0;350036;7.7958;;S
+690;sim;1;Madill, Miss. Georgette Alexandra;mulher;15;0;1;24160;211.3375;B5;S
+691;sim;1;Dick, Mr. Albert Adrian;homem;31;1;0;17474;57;B20;S
+692;sim;3;Karun, Miss. Manca;mulher;4;0;1;349256;13.4167;;C
+693;sim;3;Lam, Mr. Ali;homem;;0;0;1601;56.4958;;S
+694;não;3;Saad, Mr. Khalil;homem;25;0;0;2672;7.225;;C
+695;não;1;Weir, Col. John;homem;60;0;0;113800;26.55;;S
+696;não;2;Chapman, Mr. Charles Henry;homem;52;0;0;248731;13.5;;S
+697;não;3;Kelly, Mr. James;homem;44;0;0;363592;8.05;;S
+698;sim;3;"Mullens, Miss. Katherine ""Katie""";mulher;;0;0;35852;7.7333;;Q
+699;não;1;Thayer, Mr. John Borland;homem;49;1;1;17421;110.8833;C68;C
+700;não;3;Humblen, Mr. Adolf Mathias Nicolai Olsen;homem;42;0;0;348121;7.65;F G63;S
+701;sim;1;Astor, Mrs. John Jacob (Madeleine Talmadge Force);mulher;18;1;0;PC 17757;227.525;C62 C64;C
+702;sim;1;Silverthorne, Mr. Spencer Victor;homem;35;0;0;PC 17475;26.2875;E24;S
+703;não;3;Barbara, Miss. Saiide;mulher;18;0;1;2691;14.4542;;C
+704;não;3;Gallagher, Mr. Martin;homem;25;0;0;36864;7.7417;;Q
+705;não;3;Hansen, Mr. Henrik Juul;homem;26;1;0;350025;7.8542;;S
+706;não;2;"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")";homem;39;0;0;250655;26;;S
+707;sim;2;"Kelly, Mrs. Florence ""Fannie""";mulher;45;0;0;223596;13.5;;S
+708;sim;1;Calderhead, Mr. Edward Pennington;homem;42;0;0;PC 17476;26.2875;E24;S
+709;sim;1;Cleaver, Miss. Alice;mulher;22;0;0;113781;151.55;;S
+710;sim;3;"Moubarek, Master. Halim Gonios (""William George"")";homem;;1;1;2661;15.2458;;C
+711;sim;1;"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")";mulher;24;0;0;PC 17482;49.5042;C90;C
+712;não;1;Klaber, Mr. Herman;homem;;0;0;113028;26.55;C124;S
+713;sim;1;Taylor, Mr. Elmer Zebley;homem;48;1;0;19996;52;C126;S
+714;não;3;Larsson, Mr. August Viktor;homem;29;0;0;7545;9.4833;;S
+715;não;2;Greenberg, Mr. Samuel;homem;52;0;0;250647;13;;S
+716;não;3;Soholt, Mr. Peter Andreas Lauritz Andersen;homem;19;0;0;348124;7.65;F G73;S
+717;sim;1;Endres, Miss. Caroline Louise;mulher;38;0;0;PC 17757;227.525;C45;C
+718;sim;2;"Troutt, Miss. Edwina Celia ""Winnie""";mulher;27;0;0;34218;10.5;E101;S
+719;não;3;McEvoy, Mr. Michael;homem;;0;0;36568;15.5;;Q
+720;não;3;Johnson, Mr. Malkolm Joackim;homem;33;0;0;347062;7.775;;S
+721;sim;2;"Harper, Miss. Annie Jessie ""Nina""";mulher;6;0;1;248727;33;;S
+722;não;3;Jensen, Mr. Svend Lauritz;homem;17;1;0;350048;7.0542;;S
+723;não;2;Gillespie, Mr. William Henry;homem;34;0;0;12233;13;;S
+724;não;2;Hodges, Mr. Henry Price;homem;50;0;0;250643;13;;S
+725;sim;1;Chambers, Mr. Norman Campbell;homem;27;1;0;113806;53.1;E8;S
+726;não;3;Oreskovic, Mr. Luka;homem;20;0;0;315094;8.6625;;S
+727;sim;2;Renouf, Mrs. Peter Henry (Lillian Jefferys);mulher;30;3;0;31027;21;;S
+728;sim;3;Mannion, Miss. Margareth;mulher;;0;0;36866;7.7375;;Q
+729;não;2;Bryhl, Mr. Kurt Arnold Gottfrid;homem;25;1;0;236853;26;;S
+730;não;3;Ilmakangas, Miss. Pieta Sofia;mulher;25;1;0;STON/O2. 3101271;7.925;;S
+731;sim;1;Allen, Miss. Elisabeth Walton;mulher;29;0;0;24160;211.3375;B5;S
+732;não;3;Hassan, Mr. Houssein G N;homem;11;0;0;2699;18.7875;;C
+733;não;2;Knight, Mr. Robert J;homem;;0;0;239855;0;;S
+734;não;2;Berriman, Mr. William John;homem;23;0;0;28425;13;;S
+735;não;2;Troupiansky, Mr. Moses Aaron;homem;23;0;0;233639;13;;S
+736;não;3;Williams, Mr. Leslie;homem;28.5;0;0;54636;16.1;;S
+737;não;3;Ford, Mrs. Edward (Margaret Ann Watson);mulher;48;1;3;W./C. 6608;34.375;;S
+738;sim;1;Lesurer, Mr. Gustave J;homem;35;0;0;PC 17755;512.3292;B101;C
+739;não;3;Ivanoff, Mr. Kanio;homem;;0;0;349201;7.8958;;S
+740;não;3;Nankoff, Mr. Minko;homem;;0;0;349218;7.8958;;S
+741;sim;1;Hawksford, Mr. Walter James;homem;;0;0;16988;30;D45;S
+742;não;1;Cavendish, Mr. Tyrell William;homem;36;1;0;19877;78.85;C46;S
+743;sim;1;"Ryerson, Miss. Susan Parker ""Suzette""";mulher;21;2;2;PC 17608;262.375;B57 B59 B63 B66;C
+744;não;3;McNamee, Mr. Neal;homem;24;1;0;376566;16.1;;S
+745;sim;3;Stranden, Mr. Juho;homem;31;0;0;STON/O 2. 3101288;7.925;;S
+746;não;1;Crosby, Capt. Edward Gifford;homem;70;1;1;WE/P 5735;71;B22;S
+747;não;3;Abbott, Mr. Rossmore Edward;homem;16;1;1;C.A. 2673;20.25;;S
+748;sim;2;Sinkkonen, Miss. Anna;mulher;30;0;0;250648;13;;S
+749;não;1;Marvin, Mr. Daniel Warner;homem;19;1;0;113773;53.1;D30;S
+750;não;3;Connaghton, Mr. Michael;homem;31;0;0;335097;7.75;;Q
+751;sim;2;Wells, Miss. Joan;mulher;4;1;1;29103;23;;S
+752;sim;3;Moor, Master. Meier;homem;6;0;1;392096;12.475;E121;S
+753;não;3;Vande Velde, Mr. Johannes Joseph;homem;33;0;0;345780;9.5;;S
+754;não;3;Jonkoff, Mr. Lalio;homem;23;0;0;349204;7.8958;;S
+755;sim;2;Herman, Mrs. Samuel (Jane Laver);mulher;48;1;2;220845;65;;S
+756;sim;2;Hamalainen, Master. Viljo;homem;0.67;1;1;250649;14.5;;S
+757;não;3;Carlsson, Mr. August Sigfrid;homem;28;0;0;350042;7.7958;;S
+758;não;2;Bailey, Mr. Percy Andrew;homem;18;0;0;29108;11.5;;S
+759;não;3;Theobald, Mr. Thomas Leonard;homem;34;0;0;363294;8.05;;S
+760;sim;1;Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards);mulher;33;0;0;110152;86.5;B77;S
+761;não;3;Garfirth, Mr. John;homem;;0;0;358585;14.5;;S
+762;não;3;Nirva, Mr. Iisakki Antino Aijo;homem;41;0;0;SOTON/O2 3101272;7.125;;S
+763;sim;3;Barah, Mr. Hanna Assi;homem;20;0;0;2663;7.2292;;C
+764;sim;1;Carter, Mrs. William Ernest (Lucile Polk);mulher;36;1;2;113760;120;B96 B98;S
+765;não;3;Eklund, Mr. Hans Linus;homem;16;0;0;347074;7.775;;S
+766;sim;1;Hogeboom, Mrs. John C (Anna Andrews);mulher;51;1;0;13502;77.9583;D11;S
+767;não;1;Brewe, Dr. Arthur Jackson;homem;;0;0;112379;39.6;;C
+768;não;3;Mangan, Miss. Mary;mulher;30.5;0;0;364850;7.75;;Q
+769;não;3;Moran, Mr. Daniel J;homem;;1;0;371110;24.15;;Q
+770;não;3;Gronnestad, Mr. Daniel Danielsen;homem;32;0;0;8471;8.3625;;S
+771;não;3;Lievens, Mr. Rene Aime;homem;24;0;0;345781;9.5;;S
+772;não;3;Jensen, Mr. Niels Peder;homem;48;0;0;350047;7.8542;;S
+773;não;2;Mack, Mrs. (Mary);mulher;57;0;0;S.O./P.P. 3;10.5;E77;S
+774;não;3;Elias, Mr. Dibo;homem;;0;0;2674;7.225;;C
+775;sim;2;Hocking, Mrs. Elizabeth (Eliza Needs);mulher;54;1;3;29105;23;;S
+776;não;3;Myhrman, Mr. Pehr Fabian Oliver Malkolm;homem;18;0;0;347078;7.75;;S
+777;não;3;Tobin, Mr. Roger;homem;;0;0;383121;7.75;F38;Q
+778;sim;3;Emanuel, Miss. Virginia Ethel;mulher;5;0;0;364516;12.475;;S
+779;não;3;Kilgannon, Mr. Thomas J;homem;;0;0;36865;7.7375;;Q
+780;sim;1;Robert, Mrs. Edward Scott (Elisabeth Walton McMillan);mulher;43;0;1;24160;211.3375;B3;S
+781;sim;3;Ayoub, Miss. Banoura;mulher;13;0;0;2687;7.2292;;C
+782;sim;1;Dick, Mrs. Albert Adrian (Vera Gillespie);mulher;17;1;0;17474;57;B20;S
+783;não;1;Long, Mr. Milton Clyde;homem;29;0;0;113501;30;D6;S
+784;não;3;Johnston, Mr. Andrew G;homem;;1;2;W./C. 6607;23.45;;S
+785;não;3;Ali, Mr. William;homem;25;0;0;SOTON/O.Q. 3101312;7.05;;S
+786;não;3;Harmer, Mr. Abraham (David Lishin);homem;25;0;0;374887;7.25;;S
+787;sim;3;Sjoblom, Miss. Anna Sofia;mulher;18;0;0;3101265;7.4958;;S
+788;não;3;Rice, Master. George Hugh;homem;8;4;1;382652;29.125;;Q
+789;sim;3;Dean, Master. Bertram Vere;homem;1;1;2;C.A. 2315;20.575;;S
+790;não;1;Guggenheim, Mr. Benjamin;homem;46;0;0;PC 17593;79.2;B82 B84;C
+791;não;3;"Keane, Mr. Andrew ""Andy""";homem;;0;0;12460;7.75;;Q
+792;não;2;Gaskell, Mr. Alfred;homem;16;0;0;239865;26;;S
+793;não;3;Sage, Miss. Stella Anna;mulher;;8;2;CA. 2343;69.55;;S
+794;não;1;Hoyt, Mr. William Fisher;homem;;0;0;PC 17600;30.6958;;C
+795;não;3;Dantcheff, Mr. Ristiu;homem;25;0;0;349203;7.8958;;S
+796;não;2;Otter, Mr. Richard;homem;39;0;0;28213;13;;S
+797;sim;1;Leader, Dr. Alice (Farnham);mulher;49;0;0;17465;25.9292;D17;S
+798;sim;3;Osman, Mrs. Mara;mulher;31;0;0;349244;8.6833;;S
+799;não;3;Ibrahim Shawah, Mr. Yousseff;homem;30;0;0;2685;7.2292;;C
+800;não;3;Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert);mulher;30;1;1;345773;24.15;;S
+801;não;2;Ponesell, Mr. Martin;homem;34;0;0;250647;13;;S
+802;sim;2;Collyer, Mrs. Harvey (Charlotte Annie Tate);mulher;31;1;1;C.A. 31921;26.25;;S
+803;sim;1;Carter, Master. William Thornton II;homem;11;1;2;113760;120;B96 B98;S
+804;sim;3;Thomas, Master. Assad Alexander;homem;0.42;0;1;2625;8.5167;;C
+805;sim;3;Hedman, Mr. Oskar Arvid;homem;27;0;0;347089;6.975;;S
+806;não;3;Johansson, Mr. Karl Johan;homem;31;0;0;347063;7.775;;S
+807;não;1;Andrews, Mr. Thomas Jr;homem;39;0;0;112050;0;A36;S
+808;não;3;Pettersson, Miss. Ellen Natalia;mulher;18;0;0;347087;7.775;;S
+809;não;2;Meyer, Mr. August;homem;39;0;0;248723;13;;S
+810;sim;1;Chambers, Mrs. Norman Campbell (Bertha Griggs);mulher;33;1;0;113806;53.1;E8;S
+811;não;3;Alexander, Mr. William;homem;26;0;0;3474;7.8875;;S
+812;não;3;Lester, Mr. James;homem;39;0;0;A/4 48871;24.15;;S
+813;não;2;Slemen, Mr. Richard James;homem;35;0;0;28206;10.5;;S
+814;não;3;Andersson, Miss. Ebba Iris Alfrida;mulher;6;4;2;347082;31.275;;S
+815;não;3;Tomlin, Mr. Ernest Portage;homem;30.5;0;0;364499;8.05;;S
+816;não;1;Fry, Mr. Richard;homem;;0;0;112058;0;B102;S
+817;não;3;Heininen, Miss. Wendla Maria;mulher;23;0;0;STON/O2. 3101290;7.925;;S
+818;não;2;Mallet, Mr. Albert;homem;31;1;1;S.C./PARIS 2079;37.0042;;C
+819;não;3;Holm, Mr. John Fredrik Alexander;homem;43;0;0;C 7075;6.45;;S
+820;não;3;Skoog, Master. Karl Thorsten;homem;10;3;2;347088;27.9;;S
+821;sim;1;Hays, Mrs. Charles Melville (Clara Jennings Gregg);mulher;52;1;1;12749;93.5;B69;S
+822;sim;3;Lulic, Mr. Nikola;homem;27;0;0;315098;8.6625;;S
+823;não;1;Reuchlin, Jonkheer. John George;homem;38;0;0;19972;0;;S
+824;sim;3;Moor, Mrs. (Beila);mulher;27;0;1;392096;12.475;E121;S
+825;não;3;Panula, Master. Urho Abraham;homem;2;4;1;3101295;39.6875;;S
+826;não;3;Flynn, Mr. John;homem;;0;0;368323;6.95;;Q
+827;não;3;Lam, Mr. Len;homem;;0;0;1601;56.4958;;S
+828;sim;2;Mallet, Master. Andre;homem;1;0;2;S.C./PARIS 2079;37.0042;;C
+829;sim;3;McCormack, Mr. Thomas Joseph;homem;;0;0;367228;7.75;;Q
+830;sim;1;Stone, Mrs. George Nelson (Martha Evelyn);mulher;62;0;0;113572;80;B28;
+831;sim;3;Yasbeck, Mrs. Antoni (Selini Alexander);mulher;15;1;0;2659;14.4542;;C
+832;sim;2;Richards, Master. George Sibley;homem;0.83;1;1;29106;18.75;;S
+833;não;3;Saad, Mr. Amin;homem;;0;0;2671;7.2292;;C
+834;não;3;Augustsson, Mr. Albert;homem;23;0;0;347468;7.8542;;S
+835;não;3;Allum, Mr. Owen George;homem;18;0;0;2223;8.3;;S
+836;sim;1;Compton, Miss. Sara Rebecca;mulher;39;1;1;PC 17756;83.1583;E49;C
+837;não;3;Pasic, Mr. Jakob;homem;21;0;0;315097;8.6625;;S
+838;não;3;Sirota, Mr. Maurice;homem;;0;0;392092;8.05;;S
+839;sim;3;Chip, Mr. Chang;homem;32;0;0;1601;56.4958;;S
+840;sim;1;Marechal, Mr. Pierre;homem;;0;0;11774;29.7;C47;C
+841;não;3;Alhomaki, Mr. Ilmari Rudolf;homem;20;0;0;SOTON/O2 3101287;7.925;;S
+842;não;2;Mudd, Mr. Thomas Charles;homem;16;0;0;S.O./P.P. 3;10.5;;S
+843;sim;1;Serepeca, Miss. Augusta;mulher;30;0;0;113798;31;;C
+844;não;3;Lemberopolous, Mr. Peter L;homem;34.5;0;0;2683;6.4375;;C
+845;não;3;Culumovic, Mr. Jeso;homem;17;0;0;315090;8.6625;;S
+846;não;3;Abbing, Mr. Anthony;homem;42;0;0;C.A. 5547;7.55;;S
+847;não;3;Sage, Mr. Douglas Bullen;homem;;8;2;CA. 2343;69.55;;S
+848;não;3;Markoff, Mr. Marin;homem;35;0;0;349213;7.8958;;C
+849;não;2;Harper, Rev. John;homem;28;0;1;248727;33;;S
+850;sim;1;Goldenberg, Mrs. Samuel L (Edwiga Grabowska);mulher;;1;0;17453;89.1042;C92;C
+851;não;3;Andersson, Master. Sigvard Harald Elias;homem;4;4;2;347082;31.275;;S
+852;não;3;Svensson, Mr. Johan;homem;74;0;0;347060;7.775;;S
+853;não;3;Boulos, Miss. Nourelain;mulher;9;1;1;2678;15.2458;;C
+854;sim;1;Lines, Miss. Mary Conover;mulher;16;0;1;PC 17592;39.4;D28;S
+855;não;2;Carter, Mrs. Ernest Courtenay (Lilian Hughes);mulher;44;1;0;244252;26;;S
+856;sim;3;Aks, Mrs. Sam (Leah Rosen);mulher;18;0;1;392091;9.35;;S
+857;sim;1;Wick, Mrs. George Dennick (Mary Hitchcock);mulher;45;1;1;36928;164.8667;;S
+858;sim;1;Daly, Mr. Peter Denis ;homem;51;0;0;113055;26.55;E17;S
+859;sim;3;Baclini, Mrs. Solomon (Latifa Qurban);mulher;24;0;3;2666;19.2583;;C
+860;não;3;Razi, Mr. Raihed;homem;;0;0;2629;7.2292;;C
+861;não;3;Hansen, Mr. Claus Peter;homem;41;2;0;350026;14.1083;;S
+862;não;2;Giles, Mr. Frederick Edward;homem;21;1;0;28134;11.5;;S
+863;sim;1;Swift, Mrs. Frederick Joel (Margaret Welles Barron);mulher;48;0;0;17466;25.9292;D17;S
+864;não;3;"Sage, Miss. Dorothy Edith ""Dolly""";mulher;;8;2;CA. 2343;69.55;;S
+865;não;2;Gill, Mr. John William;homem;24;0;0;233866;13;;S
+866;sim;2;Bystrom, Mrs. (Karolina);mulher;42;0;0;236852;13;;S
+867;sim;2;Duran y More, Miss. Asuncion;mulher;27;1;0;SC/PARIS 2149;13.8583;;C
+868;não;1;Roebling, Mr. Washington Augustus II;homem;31;0;0;PC 17590;50.4958;A24;S
+869;não;3;van Melkebeke, Mr. Philemon;homem;;0;0;345777;9.5;;S
+870;sim;3;Johnson, Master. Harold Theodor;homem;4;1;1;347742;11.1333;;S
+871;não;3;Balkic, Mr. Cerin;homem;26;0;0;349248;7.8958;;S
+872;sim;1;Beckwith, Mrs. Richard Leonard (Sallie Monypeny);mulher;47;1;1;11751;52.5542;D35;S
+873;não;1;Carlsson, Mr. Frans Olof;homem;33;0;0;695;5;B51 B53 B55;S
+874;não;3;Vander Cruyssen, Mr. Victor;homem;47;0;0;345765;9;;S
+875;sim;2;Abelson, Mrs. Samuel (Hannah Wizosky);mulher;28;1;0;P/PP 3381;24;;C
+876;sim;3;"Najib, Miss. Adele Kiamie ""Jane""";mulher;15;0;0;2667;7.225;;C
+877;não;3;Gustafsson, Mr. Alfred Ossian;homem;20;0;0;7534;9.8458;;S
+878;não;3;Petroff, Mr. Nedelio;homem;19;0;0;349212;7.8958;;S
+879;não;3;Laleff, Mr. Kristo;homem;;0;0;349217;7.8958;;S
+880;sim;1;Potter, Mrs. Thomas Jr (Lily Alexenia Wilson);mulher;56;0;1;11767;83.1583;C50;C
+881;sim;2;Shelley, Mrs. William (Imanita Parrish Hall);mulher;25;0;1;230433;26;;S
+882;não;3;Markun, Mr. Johann;homem;33;0;0;349257;7.8958;;S
+883;não;3;Dahlberg, Miss. Gerda Ulrika;mulher;22;0;0;7552;10.5167;;S
+884;não;2;Banfield, Mr. Frederick James;homem;28;0;0;C.A./SOTON 34068;10.5;;S
+885;não;3;Sutehall, Mr. Henry Jr;homem;25;0;0;SOTON/OQ 392076;7.05;;S
+886;não;3;Rice, Mrs. William (Margaret Norton);mulher;39;0;5;382652;29.125;;Q
+887;não;2;Montvila, Rev. Juozas;homem;27;0;0;211536;13;;S
+888;sim;1;Graham, Miss. Margaret Edith;mulher;19;0;0;112053;30;B42;S
+889;não;3;"Johnston, Miss. Catherine Helen ""Carrie""";mulher;;1;2;W./C. 6607;23.45;;S
+890;sim;1;Behr, Mr. Karl Howell;homem;26;0;0;111369;30;C148;C
+891;não;3;Dooley, Mr. Patrick;homem;32;0;0;370376;7.75;;Q
+892;não;3;Kelly, Mr. James;homem;34.5;0;0;330911;7.8292;;Q
+893;sim;3;Wilkes, Mrs. James (Ellen Needs);mulher;47;1;0;363272;7;;S
+894;não;2;Myles, Mr. Thomas Francis;homem;62;0;0;240276;9.6875;;Q
+895;não;3;Wirz, Mr. Albert;homem;27;0;0;315154;8.6625;;S
+896;sim;3;Hirvonen, Mrs. Alexander (Helga E Lindqvist);mulher;22;1;1;3101298;12.2875;;S
+897;não;3;Svensson, Mr. Johan Cervin;homem;14;0;0;7538;9.225;;S
+898;sim;3;Connolly, Miss. Kate;mulher;30;0;0;330972;7.6292;;Q
+899;não;2;Caldwell, Mr. Albert Francis;homem;26;1;1;248738;29;;S
+900;sim;3;Abrahim, Mrs. Joseph (Sophie Halaut Easu);mulher;18;0;0;2657;7.2292;;C
+901;não;3;Davies, Mr. John Samuel;homem;21;2;0;A/4 48871;24.15;;S
+902;não;3;Ilieff, Mr. Ylio;homem;;0;0;349220;7.8958;;S
+903;não;1;Jones, Mr. Charles Cresson;homem;46;0;0;694;26;;S
+904;sim;1;Snyder, Mrs. John Pillsbury (Nelle Stevenson);mulher;23;1;0;21228;82.2667;B45;S
+905;não;2;Howard, Mr. Benjamin;homem;63;1;0;24065;26;;S
+906;sim;1;Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood);mulher;47;1;0;W.E.P. 5734;61.175;E31;S
+907;sim;2;del Carlo, Mrs. Sebastiano (Argenia Genovesi);mulher;24;1;0;SC/PARIS 2167;27.7208;;C
+908;não;2;Keane, Mr. Daniel;homem;35;0;0;233734;12.35;;Q
+909;não;3;Assaf, Mr. Gerios;homem;21;0;0;2692;7.225;;C
+910;sim;3;Ilmakangas, Miss. Ida Livija;mulher;27;1;0;STON/O2. 3101270;7.925;;S
+911;sim;3;"Assaf Khalil, Mrs. Mariana (Miriam"")""";mulher;45;0;0;2696;7.225;;C
+912;não;1;Rothschild, Mr. Martin;homem;55;1;0;PC 17603;59.4;;C
+913;não;3;Olsen, Master. Artur Karl;homem;9;0;1;C 17368;3.1708;;S
+914;sim;1;Flegenheim, Mrs. Alfred (Antoinette);mulher;;0;0;PC 17598;31.6833;;S
+915;não;1;Williams, Mr. Richard Norris II;homem;21;0;1;PC 17597;61.3792;;C
+916;sim;1;Ryerson, Mrs. Arthur Larned (Emily Maria Borie);mulher;48;1;3;PC 17608;262.375;B57 B59 B63 B66;C
+917;não;3;Robins, Mr. Alexander A;homem;50;1;0;A/5. 3337;14.5;;S
+918;sim;1;Ostby, Miss. Helene Ragnhild;mulher;22;0;1;113509;61.9792;B36;C
+919;não;3;Daher, Mr. Shedid;homem;22.5;0;0;2698;7.225;;C
+920;não;1;Brady, Mr. John Bertram;homem;41;0;0;113054;30.5;A21;S
+921;não;3;Samaan, Mr. Elias;homem;;2;0;2662;21.6792;;C
+922;não;2;Louch, Mr. Charles Alexander;homem;50;1;0;SC/AH 3085;26;;S
+923;não;2;Jefferys, Mr. Clifford Thomas;homem;24;2;0;C.A. 31029;31.5;;S
+924;sim;3;Dean, Mrs. Bertram (Eva Georgetta Light);mulher;33;1;2;C.A. 2315;20.575;;S
+925;sim;3;"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""";mulher;;1;2;W./C. 6607;23.45;;S
+926;não;1;Mock, Mr. Philipp Edmund;homem;30;1;0;13236;57.75;C78;C
+927;não;3;"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""";homem;18.5;0;0;2682;7.2292;;C
+928;sim;3;Roth, Miss. Sarah A;mulher;;0;0;342712;8.05;;S
+929;sim;3;Cacic, Miss. Manda;mulher;21;0;0;315087;8.6625;;S
+930;não;3;Sap, Mr. Julius;homem;25;0;0;345768;9.5;;S
+931;não;3;Hee, Mr. Ling;homem;;0;0;1601;56.4958;;S
+932;não;3;Karun, Mr. Franz;homem;39;0;1;349256;13.4167;;C
+933;não;1;Franklin, Mr. Thomas Parham;homem;;0;0;113778;26.55;D34;S
+934;não;3;Goldsmith, Mr. Nathan;homem;41;0;0;SOTON/O.Q. 3101263;7.85;;S
+935;sim;2;Corbett, Mrs. Walter H (Irene Colvin);mulher;30;0;0;237249;13;;S
+936;sim;1;Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons);mulher;45;1;0;11753;52.5542;D19;S
+937;não;3;Peltomaki, Mr. Nikolai Johannes;homem;25;0;0;STON/O 2. 3101291;7.925;;S
+938;não;1;Chevre, Mr. Paul Romaine;homem;45;0;0;PC 17594;29.7;A9;C
+939;não;3;Shaughnessy, Mr. Patrick;homem;;0;0;370374;7.75;;Q
+940;sim;1;Bucknell, Mrs. William Robert (Emma Eliza Ward);mulher;60;0;0;11813;76.2917;D15;C
+941;sim;3;"Coutts, Mrs. William (Winnie Minnie"" Treanor)""";mulher;36;0;2;C.A. 37671;15.9;;S
+942;não;1;Smith, Mr. Lucien Philip;homem;24;1;0;13695;60;C31;S
+943;não;2;Pulbaum, Mr. Franz;homem;27;0;0;SC/PARIS 2168;15.0333;;C
+944;sim;2;"Hocking, Miss. Ellen Nellie""""";mulher;20;2;1;29105;23;;S
+945;sim;1;Fortune, Miss. Ethel Flora;mulher;28;3;2;19950;263;C23 C25 C27;S
+946;não;2;Mangiavacchi, Mr. Serafino Emilio;homem;;0;0;SC/A.3 2861;15.5792;;C
+947;não;3;Rice, Master. Albert;homem;10;4;1;382652;29.125;;Q
+948;não;3;Cor, Mr. Bartol;homem;35;0;0;349230;7.8958;;S
+949;não;3;Abelseth, Mr. Olaus Jorgensen;homem;25;0;0;348122;7.65;F G63;S
+950;não;3;Davison, Mr. Thomas Henry;homem;;1;0;386525;16.1;;S
+951;sim;1;Chaudanson, Miss. Victorine;mulher;36;0;0;PC 17608;262.375;B61;C
+952;não;3;Dika, Mr. Mirko;homem;17;0;0;349232;7.8958;;S
+953;não;2;McCrae, Mr. Arthur Gordon;homem;32;0;0;237216;13.5;;S
+954;não;3;Bjorklund, Mr. Ernst Herbert;homem;18;0;0;347090;7.75;;S
+955;sim;3;Bradley, Miss. Bridget Delia;mulher;22;0;0;334914;7.725;;Q
+956;não;1;Ryerson, Master. John Borie;homem;13;2;2;PC 17608;262.375;B57 B59 B63 B66;C
+957;sim;2;Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller);mulher;;0;0;F.C.C. 13534;21;;S
+958;sim;3;Burns, Miss. Mary Delia;mulher;18;0;0;330963;7.8792;;Q
+959;não;1;Moore, Mr. Clarence Bloomfield;homem;47;0;0;113796;42.4;;S
+960;não;1;Tucker, Mr. Gilbert Milligan Jr;homem;31;0;0;2543;28.5375;C53;C
+961;sim;1;Fortune, Mrs. Mark (Mary McDougald);mulher;60;1;4;19950;263;C23 C25 C27;S
+962;sim;3;Mulvihill, Miss. Bertha E;mulher;24;0;0;382653;7.75;;Q
+963;não;3;Minkoff, Mr. Lazar;homem;21;0;0;349211;7.8958;;S
+964;sim;3;Nieminen, Miss. Manta Josefina;mulher;29;0;0;3101297;7.925;;S
+965;não;1;Ovies y Rodriguez, Mr. Servando;homem;28.5;0;0;PC 17562;27.7208;D43;C
+966;sim;1;Geiger, Miss. Amalie;mulher;35;0;0;113503;211.5;C130;C
+967;não;1;Keeping, Mr. Edwin;homem;32.5;0;0;113503;211.5;C132;C
+968;não;3;Miles, Mr. Frank;homem;;0;0;359306;8.05;;S
+969;sim;1;Cornell, Mrs. Robert Clifford (Malvina Helen Lamson);mulher;55;2;0;11770;25.7;C101;S
+970;não;2;Aldworth, Mr. Charles Augustus;homem;30;0;0;248744;13;;S
+971;sim;3;Doyle, Miss. Elizabeth;mulher;24;0;0;368702;7.75;;Q
+972;não;3;Boulos, Master. Akar;homem;6;1;1;2678;15.2458;;C
+973;não;1;Straus, Mr. Isidor;homem;67;1;0;PC 17483;221.7792;C55 C57;S
+974;não;1;Case, Mr. Howard Brown;homem;49;0;0;19924;26;;S
+975;não;3;Demetri, Mr. Marinko;homem;;0;0;349238;7.8958;;S
+976;não;2;Lamb, Mr. John Joseph;homem;;0;0;240261;10.7083;;Q
+977;não;3;Khalil, Mr. Betros;homem;;1;0;2660;14.4542;;C
+978;sim;3;Barry, Miss. Julia;mulher;27;0;0;330844;7.8792;;Q
+979;sim;3;Badman, Miss. Emily Louisa;mulher;18;0;0;A/4 31416;8.05;;S
+980;sim;3;O'Donoghue, Ms. Bridget;mulher;;0;0;364856;7.75;;Q
+981;não;2;Wells, Master. Ralph Lester;homem;2;1;1;29103;23;;S
+982;sim;3;Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson);mulher;22;1;0;347072;13.9;;S
+983;não;3;Pedersen, Mr. Olaf;homem;;0;0;345498;7.775;;S
+984;sim;1;Davidson, Mrs. Thornton (Orian Hays);mulher;27;1;2;F.C. 12750;52;B71;S
+985;não;3;Guest, Mr. Robert;homem;;0;0;376563;8.05;;S
+986;não;1;Birnbaum, Mr. Jakob;homem;25;0;0;13905;26;;C
+987;não;3;Tenglin, Mr. Gunnar Isidor;homem;25;0;0;350033;7.7958;;S
+988;sim;1;Cavendish, Mrs. Tyrell William (Julia Florence Siegel);mulher;76;1;0;19877;78.85;C46;S
+989;não;3;Makinen, Mr. Kalle Edvard;homem;29;0;0;STON/O 2. 3101268;7.925;;S
+990;sim;3;Braf, Miss. Elin Ester Maria;mulher;20;0;0;347471;7.8542;;S
+991;não;3;Nancarrow, Mr. William Henry;homem;33;0;0;A./5. 3338;8.05;;S
+992;sim;1;Stengel, Mrs. Charles Emil Henry (Annie May Morris);mulher;43;1;0;11778;55.4417;C116;C
+993;não;2;Weisz, Mr. Leopold;homem;27;1;0;228414;26;;S
+994;não;3;Foley, Mr. William;homem;;0;0;365235;7.75;;Q
+995;não;3;Johansson Palmquist, Mr. Oskar Leander;homem;26;0;0;347070;7.775;;S
+996;sim;3;"Thomas, Mrs. Alexander (Thamine Thelma"")""";mulher;16;1;1;2625;8.5167;;C
+997;não;3;Holthen, Mr. Johan Martin;homem;28;0;0;C 4001;22.525;;S
+998;não;3;Buckley, Mr. Daniel;homem;21;0;0;330920;7.8208;;Q
+999;não;3;Ryan, Mr. Edward;homem;;0;0;383162;7.75;;Q
+1000;não;3;"Willer, Mr. Aaron (Abi Weller"")""";homem;;0;0;3410;8.7125;;S
+1001;não;2;Swane, Mr. George;homem;18.5;0;0;248734;13;F;S
+1002;não;2;Stanton, Mr. Samuel Ward;homem;41;0;0;237734;15.0458;;C
+1003;sim;3;Shine, Miss. Ellen Natalia;mulher;;0;0;330968;7.7792;;Q
+1004;sim;1;Evans, Miss. Edith Corse;mulher;36;0;0;PC 17531;31.6792;A29;C
+1005;sim;3;Buckley, Miss. Katherine;mulher;18.5;0;0;329944;7.2833;;Q
+1006;sim;1;Straus, Mrs. Isidor (Rosalie Ida Blun);mulher;63;1;0;PC 17483;221.7792;C55 C57;S
+1007;não;3;Chronopoulos, Mr. Demetrios;homem;18;1;0;2680;14.4542;;C
+1008;não;3;Thomas, Mr. John;homem;;0;0;2681;6.4375;;C
+1009;sim;3;Sandstrom, Miss. Beatrice Irene;mulher;1;1;1;PP 9549;16.7;G6;S
+1010;não;1;Beattie, Mr. Thomson;homem;36;0;0;13050;75.2417;C6;C
+1011;sim;2;Chapman, Mrs. John Henry (Sara Elizabeth Lawry);mulher;29;1;0;SC/AH 29037;26;;S
+1012;sim;2;Watt, Miss. Bertha J;mulher;12;0;0;C.A. 33595;15.75;;S
+1013;não;3;Kiernan, Mr. John;homem;;1;0;367227;7.75;;Q
+1014;sim;1;Schabert, Mrs. Paul (Emma Mock);mulher;35;1;0;13236;57.75;C28;C
+1015;não;3;Carver, Mr. Alfred John;homem;28;0;0;392095;7.25;;S
+1016;não;3;Kennedy, Mr. John;homem;;0;0;368783;7.75;;Q
+1017;sim;3;Cribb, Miss. Laura Alice;mulher;17;0;1;371362;16.1;;S
+1018;não;3;Brobeck, Mr. Karl Rudolf;homem;22;0;0;350045;7.7958;;S
+1019;sim;3;McCoy, Miss. Alicia;mulher;;2;0;367226;23.25;;Q
+1020;não;2;Bowenur, Mr. Solomon;homem;42;0;0;211535;13;;S
+1021;não;3;Petersen, Mr. Marius;homem;24;0;0;342441;8.05;;S
+1022;não;3;Spinner, Mr. Henry John;homem;32;0;0;STON/OQ. 369943;8.05;;S
+1023;não;1;Gracie, Col. Archibald IV;homem;53;0;0;113780;28.5;C51;C
+1024;sim;3;Lefebre, Mrs. Frank (Frances);mulher;;0;4;4133;25.4667;;S
+1025;não;3;Thomas, Mr. Charles P;homem;;1;0;2621;6.4375;;C
+1026;não;3;Dintcheff, Mr. Valtcho;homem;43;0;0;349226;7.8958;;S
+1027;não;3;Carlsson, Mr. Carl Robert;homem;24;0;0;350409;7.8542;;S
+1028;não;3;Zakarian, Mr. Mapriededer;homem;26.5;0;0;2656;7.225;;C
+1029;não;2;Schmidt, Mr. August;homem;26;0;0;248659;13;;S
+1030;sim;3;Drapkin, Miss. Jennie;mulher;23;0;0;SOTON/OQ 392083;8.05;;S
+1031;não;3;Goodwin, Mr. Charles Frederick;homem;40;1;6;CA 2144;46.9;;S
+1032;sim;3;Goodwin, Miss. Jessie Allis;mulher;10;5;2;CA 2144;46.9;;S
+1033;sim;1;Daniels, Miss. Sarah;mulher;33;0;0;113781;151.55;;S
+1034;não;1;Ryerson, Mr. Arthur Larned;homem;61;1;3;PC 17608;262.375;B57 B59 B63 B66;C
+1035;não;2;Beauchamp, Mr. Henry James;homem;28;0;0;244358;26;;S
+1036;não;1;"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""";homem;42;0;0;17475;26.55;;S
+1037;não;3;Vander Planke, Mr. Julius;homem;31;3;0;345763;18;;S
+1038;não;1;Hilliard, Mr. Herbert Henry;homem;;0;0;17463;51.8625;E46;S
+1039;não;3;Davies, Mr. Evan;homem;22;0;0;SC/A4 23568;8.05;;S
+1040;não;1;Crafton, Mr. John Bertram;homem;;0;0;113791;26.55;;S
+1041;não;2;Lahtinen, Rev. William;homem;30;1;1;250651;26;;S
+1042;sim;1;Earnshaw, Mrs. Boulton (Olive Potter);mulher;23;0;1;11767;83.1583;C54;C
+1043;não;3;Matinoff, Mr. Nicola;homem;;0;0;349255;7.8958;;C
+1044;não;3;Storey, Mr. Thomas;homem;60.5;0;0;3701;;;S
+1045;sim;3;Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist);mulher;36;0;2;350405;12.1833;;S
+1046;não;3;Asplund, Master. Filip Oscar;homem;13;4;2;347077;31.3875;;S
+1047;não;3;Duquemin, Mr. Joseph;homem;24;0;0;S.O./P.P. 752;7.55;;S
+1048;sim;1;Bird, Miss. Ellen;mulher;29;0;0;PC 17483;221.7792;C97;S
+1049;sim;3;Lundin, Miss. Olga Elida;mulher;23;0;0;347469;7.8542;;S
+1050;não;1;Borebank, Mr. John James;homem;42;0;0;110489;26.55;D22;S
+1051;sim;3;Peacock, Mrs. Benjamin (Edith Nile);mulher;26;0;2;SOTON/O.Q. 3101315;13.775;;S
+1052;sim;3;Smyth, Miss. Julia;mulher;;0;0;335432;7.7333;;Q
+1053;não;3;Touma, Master. Georges Youssef;homem;7;1;1;2650;15.2458;;C
+1054;sim;2;Wright, Miss. Marion;mulher;26;0;0;220844;13.5;;S
+1055;não;3;Pearce, Mr. Ernest;homem;;0;0;343271;7;;S
+1056;não;2;Peruschitz, Rev. Joseph Maria;homem;41;0;0;237393;13;;S
+1057;sim;3;Kink-Heilmann, Mrs. Anton (Luise Heilmann);mulher;26;1;1;315153;22.025;;S
+1058;não;1;Brandeis, Mr. Emil;homem;48;0;0;PC 17591;50.4958;B10;C
+1059;não;3;Ford, Mr. Edward Watson;homem;18;2;2;W./C. 6608;34.375;;S
+1060;sim;1;Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick);mulher;;0;0;17770;27.7208;;C
+1061;sim;3;Hellstrom, Miss. Hilda Maria;mulher;22;0;0;7548;8.9625;;S
+1062;não;3;Lithman, Mr. Simon;homem;;0;0;S.O./P.P. 251;7.55;;S
+1063;não;3;Zakarian, Mr. Ortin;homem;27;0;0;2670;7.225;;C
+1064;não;3;Dyker, Mr. Adolf Fredrik;homem;23;1;0;347072;13.9;;S
+1065;não;3;Torfa, Mr. Assad;homem;;0;0;2673;7.2292;;C
+1066;não;3;Asplund, Mr. Carl Oscar Vilhelm Gustafsson;homem;40;1;5;347077;31.3875;;S
+1067;sim;2;Brown, Miss. Edith Eileen;mulher;15;0;2;29750;39;;S
+1068;sim;2;Sincock, Miss. Maude;mulher;20;0;0;C.A. 33112;36.75;;S
+1069;não;1;Stengel, Mr. Charles Emil Henry;homem;54;1;0;11778;55.4417;C116;C
+1070;sim;2;Becker, Mrs. Allen Oliver (Nellie E Baumgardner);mulher;36;0;3;230136;39;F4;S
+1071;sim;1;Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll);mulher;64;0;2;PC 17756;83.1583;E45;C
+1072;não;2;McCrie, Mr. James Matthew;homem;30;0;0;233478;13;;S
+1073;não;1;Compton, Mr. Alexander Taylor Jr;homem;37;1;1;PC 17756;83.1583;E52;C
+1074;sim;1;Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson);mulher;18;1;0;113773;53.1;D30;S
+1075;não;3;Lane, Mr. Patrick;homem;;0;0;7935;7.75;;Q
+1076;sim;1;Douglas, Mrs. Frederick Charles (Mary Helene Baxter);mulher;27;1;1;PC 17558;247.5208;B58 B60;C
+1077;não;2;Maybery, Mr. Frank Hubert;homem;40;0;0;239059;16;;S
+1078;sim;2;Phillips, Miss. Alice Frances Louisa;mulher;21;0;1;S.O./P.P. 2;21;;S
+1079;não;3;Davies, Mr. Joseph;homem;17;2;0;A/4 48873;8.05;;S
+1080;sim;3;Sage, Miss. Ada;mulher;;8;2;CA. 2343;69.55;;S
+1081;não;2;Veal, Mr. James;homem;40;0;0;28221;13;;S
+1082;não;2;Angle, Mr. William A;homem;34;1;0;226875;26;;S
+1083;não;1;Salomon, Mr. Abraham L;homem;;0;0;111163;26;;S
+1084;não;3;van Billiard, Master. Walter John;homem;11.5;1;1;A/5. 851;14.5;;S
+1085;não;2;Lingane, Mr. John;homem;61;0;0;235509;12.35;;Q
+1086;não;2;Drew, Master. Marshall Brines;homem;8;0;2;28220;32.5;;S
+1087;não;3;Karlsson, Mr. Julius Konrad Eugen;homem;33;0;0;347465;7.8542;;S
+1088;não;1;Spedden, Master. Robert Douglas;homem;6;0;2;16966;134.5;E34;C
+1089;sim;3;Nilsson, Miss. Berta Olivia;mulher;18;0;0;347066;7.775;;S
+1090;não;2;Baimbrigge, Mr. Charles Robert;homem;23;0;0;C.A. 31030;10.5;;S
+1091;sim;3;Rasmussen, Mrs. (Lena Jacobsen Solvang);mulher;;0;0;65305;8.1125;;S
+1092;sim;3;Murphy, Miss. Nora;mulher;;0;0;36568;15.5;;Q
+1093;não;3;Danbom, Master. Gilbert Sigvard Emanuel;homem;0.33;0;2;347080;14.4;;S
+1094;não;1;Astor, Col. John Jacob;homem;47;1;0;PC 17757;227.525;C62 C64;C
+1095;sim;2;Quick, Miss. Winifred Vera;mulher;8;1;1;26360;26;;S
+1096;não;2;Andrew, Mr. Frank Thomas;homem;25;0;0;C.A. 34050;10.5;;S
+1097;não;1;Omont, Mr. Alfred Fernand;homem;;0;0;F.C. 12998;25.7417;;C
+1098;sim;3;McGowan, Miss. Katherine;mulher;35;0;0;9232;7.75;;Q
+1099;não;2;Collett, Mr. Sidney C Stuart;homem;24;0;0;28034;10.5;;S
+1100;sim;1;Rosenbaum, Miss. Edith Louise;mulher;33;0;0;PC 17613;27.7208;A11;C
+1101;não;3;Delalic, Mr. Redjo;homem;25;0;0;349250;7.8958;;S
+1102;não;3;Andersen, Mr. Albert Karvin;homem;32;0;0;C 4001;22.525;;S
+1103;não;3;Finoli, Mr. Luigi;homem;;0;0;SOTON/O.Q. 3101308;7.05;;S
+1104;não;2;Deacon, Mr. Percy William;homem;17;0;0;S.O.C. 14879;73.5;;S
+1105;sim;2;Howard, Mrs. Benjamin (Ellen Truelove Arman);mulher;60;1;0;24065;26;;S
+1106;sim;3;Andersson, Miss. Ida Augusta Margareta;mulher;38;4;2;347091;7.775;;S
+1107;não;1;Head, Mr. Christopher;homem;42;0;0;113038;42.5;B11;S
+1108;sim;3;Mahon, Miss. Bridget Delia;mulher;;0;0;330924;7.8792;;Q
+1109;não;1;Wick, Mr. George Dennick;homem;57;1;1;36928;164.8667;;S
+1110;sim;1;Widener, Mrs. George Dunton (Eleanor Elkins);mulher;50;1;1;113503;211.5;C80;C
+1111;não;3;Thomson, Mr. Alexander Morrison;homem;;0;0;32302;8.05;;S
+1112;sim;2;Duran y More, Miss. Florentina;mulher;30;1;0;SC/PARIS 2148;13.8583;;C
+1113;não;3;Reynolds, Mr. Harold J;homem;21;0;0;342684;8.05;;S
+1114;sim;2;Cook, Mrs. (Selena Rogers);mulher;22;0;0;W./C. 14266;10.5;F33;S
+1115;não;3;Karlsson, Mr. Einar Gervasius;homem;21;0;0;350053;7.7958;;S
+1116;sim;1;Candee, Mrs. Edward (Helen Churchill Hungerford);mulher;53;0;0;PC 17606;27.4458;;C
+1117;sim;3;"Moubarek, Mrs. George (Omine Amenia"" Alexander)""";mulher;;0;2;2661;15.2458;;C
+1118;não;3;Asplund, Mr. Johan Charles;homem;23;0;0;350054;7.7958;;S
+1119;sim;3;McNeill, Miss. Bridget;mulher;;0;0;370368;7.75;;Q
+1120;não;3;Everett, Mr. Thomas James;homem;40.5;0;0;C.A. 6212;15.1;;S
+1121;não;2;Hocking, Mr. Samuel James Metcalfe;homem;36;0;0;242963;13;;S
+1122;não;2;Sweet, Mr. George Frederick;homem;14;0;0;220845;65;;S
+1123;sim;1;Willard, Miss. Constance;mulher;21;0;0;113795;26.55;;S
+1124;não;3;Wiklund, Mr. Karl Johan;homem;21;1;0;3101266;6.4958;;S
+1125;não;3;Linehan, Mr. Michael;homem;;0;0;330971;7.8792;;Q
+1126;não;1;Cumings, Mr. John Bradley;homem;39;1;0;PC 17599;71.2833;C85;C
+1127;não;3;Vendel, Mr. Olof Edvin;homem;20;0;0;350416;7.8542;;S
+1128;não;1;Warren, Mr. Frank Manley;homem;64;1;0;110813;75.25;D37;C
+1129;não;3;Baccos, Mr. Raffull;homem;20;0;0;2679;7.225;;C
+1130;sim;2;Hiltunen, Miss. Marta;mulher;18;1;1;250650;13;;S
+1131;sim;1;Douglas, Mrs. Walter Donald (Mahala Dutton);mulher;48;1;0;PC 17761;106.425;C86;C
+1132;sim;1;Lindstrom, Mrs. Carl Johan (Sigrid Posse);mulher;55;0;0;112377;27.7208;;C
+1133;sim;2;Christy, Mrs. (Alice Frances);mulher;45;0;2;237789;30;;S
+1134;não;1;Spedden, Mr. Frederic Oakley;homem;45;1;1;16966;134.5;E34;C
+1135;não;3;Hyman, Mr. Abraham;homem;;0;0;3470;7.8875;;S
+1136;não;3;"Johnston, Master. William Arthur Willie""""";homem;;1;2;W./C. 6607;23.45;;S
+1137;não;1;Kenyon, Mr. Frederick R;homem;41;1;0;17464;51.8625;D21;S
+1138;sim;2;Karnes, Mrs. J Frank (Claire Bennett);mulher;22;0;0;F.C.C. 13534;21;;S
+1139;não;2;Drew, Mr. James Vivian;homem;42;1;1;28220;32.5;;S
+1140;sim;2;Hold, Mrs. Stephen (Annie Margaret Hill);mulher;29;1;0;26707;26;;S
+1141;sim;3;"Khalil, Mrs. Betros (Zahie Maria"" Elias)""";mulher;;1;0;2660;14.4542;;C
+1142;sim;2;West, Miss. Barbara J;mulher;0.92;1;2;C.A. 34651;27.75;;S
+1143;não;3;Abrahamsson, Mr. Abraham August Johannes;homem;20;0;0;SOTON/O2 3101284;7.925;;S
+1144;não;1;Clark, Mr. Walter Miller;homem;27;1;0;13508;136.7792;C89;C
+1145;não;3;Salander, Mr. Karl Johan;homem;24;0;0;7266;9.325;;S
+1146;não;3;Wenzel, Mr. Linhart;homem;32.5;0;0;345775;9.5;;S
+1147;não;3;MacKay, Mr. George William;homem;;0;0;C.A. 42795;7.55;;S
+1148;não;3;Mahon, Mr. John;homem;;0;0;AQ/4 3130;7.75;;Q
+1149;não;3;Niklasson, Mr. Samuel;homem;28;0;0;363611;8.05;;S
+1150;sim;2;Bentham, Miss. Lilian W;mulher;19;0;0;28404;13;;S
+1151;não;3;Midtsjo, Mr. Karl Albert;homem;21;0;0;345501;7.775;;S
+1152;não;3;de Messemaeker, Mr. Guillaume Joseph;homem;36.5;1;0;345572;17.4;;S
+1153;não;3;Nilsson, Mr. August Ferdinand;homem;21;0;0;350410;7.8542;;S
+1154;sim;2;"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""";mulher;29;0;2;29103;23;;S
+1155;sim;3;Klasen, Miss. Gertrud Emilia;mulher;1;1;1;350405;12.1833;;S
+1156;não;2;Portaluppi, Mr. Emilio Ilario Giuseppe;homem;30;0;0;C.A. 34644;12.7375;;C
+1157;não;3;Lyntakoff, Mr. Stanko;homem;;0;0;349235;7.8958;;S
+1158;não;1;Chisholm, Mr. Roderick Robert Crispin;homem;;0;0;112051;0;;S
+1159;não;3;Warren, Mr. Charles William;homem;;0;0;C.A. 49867;7.55;;S
+1160;sim;3;Howard, Miss. May Elizabeth;mulher;;0;0;A. 2. 39186;8.05;;S
+1161;não;3;Pokrnic, Mr. Mate;homem;17;0;0;315095;8.6625;;S
+1162;não;1;McCaffry, Mr. Thomas Francis;homem;46;0;0;13050;75.2417;C6;C
+1163;não;3;Fox, Mr. Patrick;homem;;0;0;368573;7.75;;Q
+1164;sim;1;Clark, Mrs. Walter Miller (Virginia McDowell);mulher;26;1;0;13508;136.7792;C89;C
+1165;sim;3;Lennon, Miss. Mary;mulher;;1;0;370371;15.5;;Q
+1166;não;3;Saade, Mr. Jean Nassr;homem;;0;0;2676;7.225;;C
+1167;sim;2;Bryhl, Miss. Dagmar Jenny Ingeborg ;mulher;20;1;0;236853;26;;S
+1168;não;2;Parker, Mr. Clifford Richard;homem;28;0;0;SC 14888;10.5;;S
+1169;não;2;Faunthorpe, Mr. Harry;homem;40;1;0;2926;26;;S
+1170;não;2;Ware, Mr. John James;homem;30;1;0;CA 31352;21;;S
+1171;não;2;Oxenham, Mr. Percy Thomas;homem;22;0;0;W./C. 14260;10.5;;S
+1172;sim;3;Oreskovic, Miss. Jelka;mulher;23;0;0;315085;8.6625;;S
+1173;não;3;Peacock, Master. Alfred Edward;homem;0.75;1;1;SOTON/O.Q. 3101315;13.775;;S
+1174;sim;3;Fleming, Miss. Honora;mulher;;0;0;364859;7.75;;Q
+1175;sim;3;Touma, Miss. Maria Youssef;mulher;9;1;1;2650;15.2458;;C
+1176;sim;3;Rosblom, Miss. Salli Helena;mulher;2;1;1;370129;20.2125;;S
+1177;não;3;Dennis, Mr. William;homem;36;0;0;A/5 21175;7.25;;S
+1178;não;3;Franklin, Mr. Charles (Charles Fardon);homem;;0;0;SOTON/O.Q. 3101314;7.25;;S
+1179;não;1;Snyder, Mr. John Pillsbury;homem;24;1;0;21228;82.2667;B45;S
+1180;não;3;Mardirosian, Mr. Sarkis;homem;;0;0;2655;7.2292;F E46;C
+1181;não;3;Ford, Mr. Arthur;homem;;0;0;A/5 1478;8.05;;S
+1182;não;1;Rheims, Mr. George Alexander Lucien;homem;;0;0;PC 17607;39.6;;S
+1183;sim;3;"Daly, Miss. Margaret Marcella Maggie""""";mulher;30;0;0;382650;6.95;;Q
+1184;não;3;Nasr, Mr. Mustafa;homem;;0;0;2652;7.2292;;C
+1185;não;1;Dodge, Dr. Washington;homem;53;1;1;33638;81.8583;A34;S
+1186;não;3;Wittevrongel, Mr. Camille;homem;36;0;0;345771;9.5;;S
+1187;não;3;Angheloff, Mr. Minko;homem;26;0;0;349202;7.8958;;S
+1188;sim;2;Laroche, Miss. Louise;mulher;1;1;2;SC/Paris 2123;41.5792;;C
+1189;não;3;Samaan, Mr. Hanna;homem;;2;0;2662;21.6792;;C
+1190;não;1;Loring, Mr. Joseph Holland;homem;30;0;0;113801;45.5;;S
+1191;não;3;Johansson, Mr. Nils;homem;29;0;0;347467;7.8542;;S
+1192;não;3;Olsson, Mr. Oscar Wilhelm;homem;32;0;0;347079;7.775;;S
+1193;não;2;Malachard, Mr. Noel;homem;;0;0;237735;15.0458;D;C
+1194;não;2;Phillips, Mr. Escott Robert;homem;43;0;1;S.O./P.P. 2;21;;S
+1195;não;3;Pokrnic, Mr. Tome;homem;24;0;0;315092;8.6625;;S
+1196;sim;3;"McCarthy, Miss. Catherine Katie""""";mulher;;0;0;383123;7.75;;Q
+1197;sim;1;Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead);mulher;64;1;1;112901;26.55;B26;S
+1198;não;1;Allison, Mr. Hudson Joshua Creighton;homem;30;1;2;113781;151.55;C22 C26;S
+1199;não;3;Aks, Master. Philip Frank;homem;0.83;0;1;392091;9.35;;S
+1200;não;1;Hays, Mr. Charles Melville;homem;55;1;1;12749;93.5;B69;S
+1201;sim;3;Hansen, Mrs. Claus Peter (Jennie L Howard);mulher;45;1;0;350026;14.1083;;S
+1202;não;3;Cacic, Mr. Jego Grga;homem;18;0;0;315091;8.6625;;S
+1203;não;3;Vartanian, Mr. David;homem;22;0;0;2658;7.225;;C
+1204;não;3;Sadowitz, Mr. Harry;homem;;0;0;LP 1588;7.575;;S
+1205;sim;3;Carr, Miss. Jeannie;mulher;37;0;0;368364;7.75;;Q
+1206;sim;1;White, Mrs. John Stuart (Ella Holmes);mulher;55;0;0;PC 17760;135.6333;C32;C
+1207;sim;3;Hagardon, Miss. Kate;mulher;17;0;0;AQ/3. 30631;7.7333;;Q
+1208;não;1;Spencer, Mr. William Augustus;homem;57;1;0;PC 17569;146.5208;B78;C
+1209;não;2;Rogers, Mr. Reginald Harry;homem;19;0;0;28004;10.5;;S
+1210;não;3;Jonsson, Mr. Nils Hilding;homem;27;0;0;350408;7.8542;;S
+1211;não;2;Jefferys, Mr. Ernest Wilfred;homem;22;2;0;C.A. 31029;31.5;;S
+1212;não;3;Andersson, Mr. Johan Samuel;homem;26;0;0;347075;7.775;;S
+1213;não;3;Krekorian, Mr. Neshan;homem;25;0;0;2654;7.2292;F E57;C
+1214;não;2;Nesson, Mr. Israel;homem;26;0;0;244368;13;F2;S
+1215;não;1;Rowe, Mr. Alfred G;homem;33;0;0;113790;26.55;;S
+1216;sim;1;Kreuchen, Miss. Emilie;mulher;39;0;0;24160;211.3375;;S
+1217;não;3;Assam, Mr. Ali;homem;23;0;0;SOTON/O.Q. 3101309;7.05;;S
+1218;sim;2;Becker, Miss. Ruth Elizabeth;mulher;12;2;1;230136;39;F4;S
+1219;não;1;"Rosenshine, Mr. George (Mr George Thorne"")""";homem;46;0;0;PC 17585;79.2;;C
+1220;não;2;Clarke, Mr. Charles Valentine;homem;29;1;0;2003;26;;S
+1221;não;2;Enander, Mr. Ingvar;homem;21;0;0;236854;13;;S
+1222;sim;2;Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ;mulher;48;0;2;C.A. 33112;36.75;;S
+1223;não;1;Dulles, Mr. William Crothers;homem;39;0;0;PC 17580;29.7;A18;C
+1224;não;3;Thomas, Mr. Tannous;homem;;0;0;2684;7.225;;C
+1225;sim;3;"Nakid, Mrs. Said (Waika Mary"" Mowad)""";mulher;19;1;1;2653;15.7417;;C
+1226;não;3;Cor, Mr. Ivan;homem;27;0;0;349229;7.8958;;S
+1227;não;1;Maguire, Mr. John Edward;homem;30;0;0;110469;26;C106;S
+1228;não;2;de Brito, Mr. Jose Joaquim;homem;32;0;0;244360;13;;S
+1229;não;3;Elias, Mr. Joseph;homem;39;0;2;2675;7.2292;;C
+1230;não;2;Denbury, Mr. Herbert;homem;25;0;0;C.A. 31029;31.5;;S
+1231;não;3;Betros, Master. Seman;homem;;0;0;2622;7.2292;;C
+1232;não;2;Fillbrook, Mr. Joseph Charles;homem;18;0;0;C.A. 15185;10.5;;S
+1233;não;3;Lundstrom, Mr. Thure Edvin;homem;32;0;0;350403;7.5792;;S
+1234;não;3;Sage, Mr. John George;homem;;1;9;CA. 2343;69.55;;S
+1235;sim;1;Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake);mulher;58;0;1;PC 17755;512.3292;B51 B53 B55;C
+1236;não;3;van Billiard, Master. James William;homem;;1;1;A/5. 851;14.5;;S
+1237;sim;3;Abelseth, Miss. Karen Marie;mulher;16;0;0;348125;7.65;;S
+1238;não;2;Botsford, Mr. William Hull;homem;26;0;0;237670;13;;S
+1239;sim;3;Whabee, Mrs. George Joseph (Shawneene Abi-Saab);mulher;38;0;0;2688;7.2292;;C
+1240;não;2;Giles, Mr. Ralph;homem;24;0;0;248726;13.5;;S
+1241;sim;2;Walcroft, Miss. Nellie;mulher;31;0;0;F.C.C. 13528;21;;S
+1242;sim;1;Greenfield, Mrs. Leo David (Blanche Strouse);mulher;45;0;1;PC 17759;63.3583;D10 D12;C
+1243;não;2;Stokes, Mr. Philip Joseph;homem;25;0;0;F.C.C. 13540;10.5;;S
+1244;não;2;Dibden, Mr. William;homem;18;0;0;S.O.C. 14879;73.5;;S
+1245;não;2;Herman, Mr. Samuel;homem;49;1;2;220845;65;;S
+1246;sim;3;"Dean, Miss. Elizabeth Gladys Millvina""""";mulher;0.17;1;2;C.A. 2315;20.575;;S
+1247;não;1;Julian, Mr. Henry Forbes;homem;50;0;0;113044;26;E60;S
+1248;sim;1;Brown, Mrs. John Murray (Caroline Lane Lamson);mulher;59;2;0;11769;51.4792;C101;S
+1249;não;3;Lockyer, Mr. Edward;homem;;0;0;1222;7.8792;;S
+1250;não;3;O'Keefe, Mr. Patrick;homem;;0;0;368402;7.75;;Q
+1251;sim;3;Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson);mulher;30;1;0;349910;15.55;;S
+1252;não;3;Sage, Master. William Henry;homem;14.5;8;2;CA. 2343;69.55;;S
+1253;sim;2;Mallet, Mrs. Albert (Antoinette Magnin);mulher;24;1;1;S.C./PARIS 2079;37.0042;;C
+1254;sim;2;Ware, Mrs. John James (Florence Louise Long);mulher;31;0;0;CA 31352;21;;S
+1255;não;3;Strilic, Mr. Ivan;homem;27;0;0;315083;8.6625;;S
+1256;sim;1;Harder, Mrs. George Achilles (Dorothy Annan);mulher;25;1;0;11765;55.4417;E50;C
+1257;sim;3;Sage, Mrs. John (Annie Bullen);mulher;;1;9;CA. 2343;69.55;;S
+1258;não;3;Caram, Mr. Joseph;homem;;1;0;2689;14.4583;;C
+1259;sim;3;"Riihivouri, Miss. Susanna Juhantytar Sanni""""";mulher;22;0;0;3101295;39.6875;;S
+1260;sim;1;Gibson, Mrs. Leonard (Pauline C Boeson);mulher;45;0;1;112378;59.4;;C
+1261;não;2;Pallas y Castello, Mr. Emilio;homem;29;0;0;SC/PARIS 2147;13.8583;;C
+1262;não;2;Giles, Mr. Edgar;homem;21;1;0;28133;11.5;;S
+1263;sim;1;Wilson, Miss. Helen Alice;mulher;31;0;0;16966;134.5;E39 E41;C
+1264;não;1;Ismay, Mr. Joseph Bruce;homem;49;0;0;112058;0;B52 B54 B56;S
+1265;não;2;Harbeck, Mr. William H;homem;44;0;0;248746;13;;S
+1266;sim;1;Dodge, Mrs. Washington (Ruth Vidaver);mulher;54;1;1;33638;81.8583;A34;S
+1267;sim;1;Bowen, Miss. Grace Scott;mulher;45;0;0;PC 17608;262.375;;C
+1268;sim;3;Kink, Miss. Maria;mulher;22;2;0;315152;8.6625;;S
+1269;não;2;"Cotterill, Mr. Henry Harry""""";homem;21;0;0;29107;11.5;;S
+1270;não;1;Hipkins, Mr. William Edward;homem;55;0;0;680;50;C39;S
+1271;não;3;Asplund, Master. Carl Edgar;homem;5;4;2;347077;31.3875;;S
+1272;não;3;O'Connor, Mr. Patrick;homem;;0;0;366713;7.75;;Q
+1273;não;3;Foley, Mr. Joseph;homem;26;0;0;330910;7.8792;;Q
+1274;sim;3;Risien, Mrs. Samuel (Emma);mulher;;0;0;364498;14.5;;S
+1275;sim;3;McNamee, Mrs. Neal (Eileen O'Leary);mulher;19;1;0;376566;16.1;;S
+1276;não;2;"Wheeler, Mr. Edwin Frederick""""";homem;;0;0;SC/PARIS 2159;12.875;;S
+1277;sim;2;Herman, Miss. Kate;mulher;24;1;2;220845;65;;S
+1278;não;3;Aronsson, Mr. Ernst Axel Algot;homem;24;0;0;349911;7.775;;S
+1279;não;2;Ashby, Mr. John;homem;57;0;0;244346;13;;S
+1280;não;3;Canavan, Mr. Patrick;homem;21;0;0;364858;7.75;;Q
+1281;não;3;Palsson, Master. Paul Folke;homem;6;3;1;349909;21.075;;S
+1282;não;1;Payne, Mr. Vivian Ponsonby;homem;23;0;0;12749;93.5;B24;S
+1283;sim;1;Lines, Mrs. Ernest H (Elizabeth Lindsey James);mulher;51;0;1;PC 17592;39.4;D28;S
+1284;não;3;Abbott, Master. Eugene Joseph;homem;13;0;2;C.A. 2673;20.25;;S
+1285;não;2;Gilbert, Mr. William;homem;47;0;0;C.A. 30769;10.5;;S
+1286;não;3;Kink-Heilmann, Mr. Anton;homem;29;3;1;315153;22.025;;S
+1287;sim;1;Smith, Mrs. Lucien Philip (Mary Eloise Hughes);mulher;18;1;0;13695;60;C31;S
+1288;não;3;Colbert, Mr. Patrick;homem;24;0;0;371109;7.25;;Q
+1289;sim;1;Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli);mulher;48;1;1;13567;79.2;B41;C
+1290;não;3;Larsson-Rondberg, Mr. Edvard A;homem;22;0;0;347065;7.775;;S
+1291;não;3;Conlon, Mr. Thomas Henry;homem;31;0;0;21332;7.7333;;Q
+1292;sim;1;Bonnell, Miss. Caroline;mulher;30;0;0;36928;164.8667;C7;S
+1293;não;2;Gale, Mr. Harry;homem;38;1;0;28664;21;;S
+1294;sim;1;Gibson, Miss. Dorothy Winifred;mulher;22;0;1;112378;59.4;;C
+1295;não;1;Carrau, Mr. Jose Pedro;homem;17;0;0;113059;47.1;;S
+1296;não;1;Frauenthal, Mr. Isaac Gerald;homem;43;1;0;17765;27.7208;D40;C
+1297;não;2;"Nourney, Mr. Alfred (Baron von Drachstedt"")""";homem;20;0;0;SC/PARIS 2166;13.8625;D38;C
+1298;não;2;Ware, Mr. William Jeffery;homem;23;1;0;28666;10.5;;S
+1299;não;1;Widener, Mr. George Dunton;homem;50;1;1;113503;211.5;C80;C
+1300;sim;3;"Riordan, Miss. Johanna Hannah""""";mulher;;0;0;334915;7.7208;;Q
+1301;sim;3;Peacock, Miss. Treasteall;mulher;3;1;1;SOTON/O.Q. 3101315;13.775;;S
+1302;sim;3;Naughton, Miss. Hannah;mulher;;0;0;365237;7.75;;Q
+1303;sim;1;Minahan, Mrs. William Edward (Lillian E Thorpe);mulher;37;1;0;19928;90;C78;Q
+1304;sim;3;Henriksson, Miss. Jenny Lovisa;mulher;28;0;0;347086;7.775;;S
+1305;não;3;Spector, Mr. Woolf;homem;;0;0;A.5. 3236;8.05;;S
+1306;sim;1;Oliva y Ocana, Dona. Fermina;mulher;39;0;0;PC 17758;108.9;C105;C
+1307;não;3;Saether, Mr. Simon Sivertsen;homem;38.5;0;0;SOTON/O.Q. 3101262;7.25;;S
+1308;não;3;Ware, Mr. Frederick;homem;;0;0;359309;8.05;;S
+1309;não;3;Peter, Master. Michael J;homem;;1;1;2668;22.3583;;C
