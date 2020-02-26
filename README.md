@@ -28,7 +28,7 @@ https://docs.google.com/spreadsheets/d/1Dpixkql1HXcrpqr6k0wb-1K7qLUMg2uAAQt5Iix3
 - 05/12 – Entrega Projeto #1
 - 12/12 – Início Projeto #2
 - 06/02 – Aula convidado
-- 05/03 – Entrega Projeto #2
+- 10/03 – Entrega Projeto #2
 - 12/03 – Fim do primeiro módulo
 
 ## Corpo Docente
