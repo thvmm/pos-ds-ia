@@ -40,3 +40,4 @@ https://docs.google.com/spreadsheets/d/1Dpixkql1HXcrpqr6k0wb-1K7qLUMg2uAAQt5Iix3
 - José Humberto Cruvinel
 - Pedro Magalhães
 - Matheus Araújo
+- Matheus Mendonça
