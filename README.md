@@ -7,6 +7,9 @@ Nesse repositório você encontrará informações gerais do curso, os projetos 
 ## Aulas
 https://drive.google.com/drive/folders/1hBK50X5JGWaHIiIXG6-8CJUJ4_-UgRbx
 
+## Submissão de trabalhos
+https://docs.google.com/spreadsheets/d/1Dpixkql1HXcrpqr6k0wb-1K7qLUMg2uAAQt5Iix3yec/edit#gid=0
+
 ## Calendário 2019/2 e 2020/1
 
 - 22/10 – Boas vindas e Projeto #1
@@ -22,10 +25,10 @@ https://drive.google.com/drive/folders/1hBK50X5JGWaHIiIXG6-8CJUJ4_-UgRbx
 ## Marcos importantes
 
 - 22/10 – Início Projeto #1
-- 21/11 – Início Projeto #2
-- 28/11 – Entrega Projeto #1
-- 17/12 – Aula convidado
-- 05/03 – Entrega Projeto #2
+- 05/12 – Entrega Projeto #1
+- 12/12 – Início Projeto #2
+- 06/02 – Aula convidado
+- 10/03 – Entrega Projeto #2
 - 12/03 – Fim do primeiro módulo
 
 ## Corpo Docente
@@ -37,3 +40,4 @@ https://drive.google.com/drive/folders/1hBK50X5JGWaHIiIXG6-8CJUJ4_-UgRbx
 - José Humberto Cruvinel
 - Pedro Magalhães
 - Matheus Araújo
+- Matheus Mendonça
