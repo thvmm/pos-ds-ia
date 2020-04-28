@@ -143,7 +143,10 @@ def stringToRGB(base64_string):
     Returns:
         img (np.ndarray): RGB image. 
     """    
-    pass
+    url = base64_string.split(',')
+    image = Image.open(io.BytesIO(base64.b64decode(url[-1])))
+    image = image.convert('RGB')
+    return np.array(image)
 
 if __name__ == '__main__':
     app.run_server(debug=False)
