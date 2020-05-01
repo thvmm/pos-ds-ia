@@ -1,4 +1,4 @@
-# Projeto #3 - Análise Exploratória de Dados (para valer)
+# Projeto #3 - Análise Exploratória de Dados
 
 ## Prazo - **02/07/2020**
 
