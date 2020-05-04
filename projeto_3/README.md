@@ -30,7 +30,8 @@ Leia atentamente as instruções abaixo:
    - Tenha em mente que menos de 20 features podem limitar suas análises 
    - Não limitaremos os tipos de features uma vez que bases com imagens ou texto podem ser utilizadas nesse trabalho.
    - Não serão permitidas bases já pre-processadas e com features normalizadas.
-   - A combinação de bases é bem vinda
+   - A combinação de bases é bem vinda.
+   - Exista um problema de classificação ou regressão associado.
 
 1. Muito mais que definir os critérios mínimos desse desafio, essas características vão tornar possível que uma análise realista seja feita. Bases muito mais simples que isso irão tornar sua análise pobre e distante do que é o dia a dia de um profissional da área.
 
