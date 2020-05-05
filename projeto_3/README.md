@@ -47,7 +47,7 @@ Leia atentamente as instruções abaixo:
 
 1. Existem dois tipos de bloco no notebook para respostas. Algumas devem ser respondidas com código outras apenas com um texto explicativo.
 
-1. Abuse de gráficos, eles facilitam o entendimento das análises e ajudam na observação de eventos e massas de dados grandes. Mas atenção à escolha do tipo correto de visualização e das melhores (e piores) práticas de visualização para cada estilo de gráfico. Use como referência o [data-to-viz](https://www.data-to-viz.com/).
+1. Abuse de gráficos, eles facilitam o entendimento das análises e ajudam na observação de eventos e massas de dados grandes. Mas atenção à escolha do tipo correto de visualização e das melhores (e piores) práticas de visualização para cada estilo de gráfico (**será um critério de avaliação**). Use como referência o [data-to-viz](https://www.data-to-viz.com/).
 
 ## Critérios de avaliação
 
@@ -60,8 +60,8 @@ Cada um dos exercícios possui seu peso associado.
 - [Jupyter](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
 - [Python 3.7](https://docs.python.org/3.7/library/index.html)
 - Visualização:
-	- [Data viz cheetsheet](https://www.data-to-viz.com/)
-	- [Visualização básica](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
-	- [Visualização de dados faltantes](https://github.com/ResidentMario/missingno)
+	- [data-to-viz](https://www.data-to-viz.com/)
+	- [visualização básica](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+	- [visualização de dados faltantes](https://github.com/ResidentMario/missingno)
 - [Kaggle](https://www.kaggle.com/)
 - [Data Mining: Concepts and Techniques](https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1)
