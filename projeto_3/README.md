@@ -47,11 +47,11 @@ Leia atentamente as instruções abaixo:
 
 1. Existem dois tipos de bloco no notebook para respostas. Algumas devem ser respondidas com código outras apenas com um texto explicativo.
 
-1. Abuse de gráficos, eles facilitam o entendimento das análises e ajudam na observação de eventos e massas de dados grandes.
+1. Abuse de gráficos, eles facilitam o entendimento das análises e ajudam na observação de eventos e massas de dados grandes. Mas atenção à escolha do tipo correto de visualização e das melhores (e piores) práticas de visualização para cada estilo de gráfico. Use como referência o [data-to-viz](https://www.data-to-viz.com/).
 
 ## Critérios de avaliação
 
-Sabemos do projeto 1 que **clareza** e **corretude** das análises são fundamentais para suportar suas conclusões, mas agora somados a esses critérios queremos ver profundidade na avaliação. Vamos desconsiderar análises superficiais como o valor médio de um determinado atributo ou a proporção de exemplos em categorias, queremos ir além. Por exemplo, o que 20% de exemplos da categoria A quer dizer? Será que eles se comportam de forma diferente das demais categorias? Será que 20% da categoria A represeta a realidade, como é essa distribuição em outros ambientes? 
+Sabemos do projeto 1 que **clareza** e **corretude** das análises são fundamentais para suportar suas conclusões, mas agora somados a esses critérios queremos ver profundidade na avaliação. Vamos desconsiderar análises superficiais como o valor médio de um determinado atributo ou a proporção de exemplos em categorias, queremos ir além. Por exemplo, o que 20% de exemplos da categoria A quer dizer? Será que eles se comportam de forma diferente das demais categorias? Será que 20% da categoria A represeta a realidade, como é essa distribuição em outros ambientes?
 
 Cada um dos exercícios possui seu peso associado.
 
@@ -59,6 +59,9 @@ Cada um dos exercícios possui seu peso associado.
 
 - [Jupyter](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
 - [Python 3.7](https://docs.python.org/3.7/library/index.html)
-- [Visualização](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+- Visualização:
+	- [Data viz cheetsheet](https://www.data-to-viz.com/)
+	- [Visualização básica](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+	- [Visualização de dados faltantes](https://github.com/ResidentMario/missingno)
 - [Kaggle](https://www.kaggle.com/)
-- [Data Mining: Concepts and Techniques] (https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1)
+- [Data Mining: Concepts and Techniques](https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1)
