@@ -1,4 +1,4 @@
-# Projeto #3 - Análise Exploratória de Dados
+# Projeto #3 - Meu primeiro projeto de IA
 
 ## Prazo - **02/07/2020**
 
