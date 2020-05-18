@@ -1,6 +1,6 @@
 # Projeto #3 - Análise Exploratória de Dados
 
-## Prazo - **02/07/2020**
+## Prazo - **01/08/2020**
 
 ## Introdução
 
