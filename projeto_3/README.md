@@ -1,6 +1,6 @@
 # Projeto #3 - Meu primeiro projeto de IA
 
-## Prazo - **02/07/2020**
+## Prazo - **01/08/2020**
 
 ## Introdução
 
